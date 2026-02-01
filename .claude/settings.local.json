@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install)",
+      "Bash(npm install:*)",
+      "Bash(npm run build:*)",
+      "Bash(timeout 10 npm run dev:*)",
+      "Bash(curl:*)",
+      "Bash(start http://localhost:5173)",
+      "Bash(npm run dev:*)",
+      "Bash(start http://localhost:5174)",
+      "Bash(explorer \"http://localhost:5174\")",
+      "Bash(cmd /c start \"\" \"http://localhost:5174\")",
+      "Bash(start msedge:*)",
+      "Bash(npx serve dist -l 3000)",
+      "Bash(taskkill:*)",
+      "Bash(npm run preview:*)",
+      "Bash(timeout /t 3 /nobreak)",
+      "Bash(ping:*)",
+      "Bash(timeout:*)",
+      "WebSearch",
+      "WebFetch(domain:qualifications.pearson.com)",
+      "WebFetch(domain:www.politicsonline.co.uk)",
+      "Bash(npx tsc:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nAdd US Politics content and improve question page UI\n\n- Add US Politics paper with 16 questions across 5 topics:\n  - The Constitution and Federalism\n  - Congress\n  - The Presidency\n  - The Supreme Court and Civil Rights\n  - Democracy and Participation\n- Add comprehensive model answers for all US questions\n- Update question format: UK/US/Global = 30 marks \"Evaluate the view\"\n  Political Ideas = 24 marks \"To what extent\"\n- Redesign PlanningPage with cleaner layout and better margins\n- Add writing mode toggle \\(device/paper\\)\n- Add feedback popup modal instead of separate page\n- Add shuffle button for same-topic questions\n- Auto-calculate confidence rating based on argument statuses\n- Fix dropdown styling \\(change to readable black text\\)\n- Rename \"Paper\" to \"Content\" in filters\n- Make filters visible by default\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
+    ]
+  }
+}
