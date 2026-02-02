@@ -2388,6 +2388,1070 @@ export const seedQuestions: Question[] = [
     difficulty: 'Intermediate',
     source_type: 'Predicted',
     created_at: new Date().toISOString()
+  },
+  // US Politics - The Constitution and Federalism
+  {
+    id: 'q199',
+    question_text: 'Evaluate the view that the US Constitution is no longer fit for purpose.',
+    paper: 'US Politics',
+    topic: 'The Constitution and Federalism',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2023,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q200',
+    question_text: 'Evaluate the view that the US Constitution provides effective limited government.',
+    paper: 'US Politics',
+    topic: 'The Constitution and Federalism',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2022,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q201',
+    question_text: 'Evaluate the view that the US Constitution is overly vague.',
+    paper: 'US Politics',
+    topic: 'The Constitution and Federalism',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Advanced',
+    source_type: 'Past Paper',
+    source_year: 2021,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q202',
+    question_text: 'Evaluate the view that codification and entrenchment strengthen US democracy.',
+    paper: 'US Politics',
+    topic: 'The Constitution and Federalism',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2020,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q203',
+    question_text: 'Evaluate the view that the amendment process of the US Constitution is ineffective.',
+    paper: 'US Politics',
+    topic: 'The Constitution and Federalism',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2023,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q204',
+    question_text: 'Evaluate the view that the US Constitution prevents effective government.',
+    paper: 'US Politics',
+    topic: 'The Constitution and Federalism',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Advanced',
+    source_type: 'Past Paper',
+    source_year: 2022,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q205',
+    question_text: 'Evaluate the view that the USA is no longer a genuinely federal system.',
+    paper: 'US Politics',
+    topic: 'The Constitution and Federalism',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2021,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q206',
+    question_text: 'Evaluate the view that federalism strengthens democracy in the USA.',
+    paper: 'US Politics',
+    topic: 'The Constitution and Federalism',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2020,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q207',
+    question_text: 'Evaluate the view that federalism hinders effective policymaking.',
+    paper: 'US Politics',
+    topic: 'The Constitution and Federalism',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Predicted',
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q208',
+    question_text: 'Evaluate the view that power has increasingly shifted away from the states.',
+    paper: 'US Politics',
+    topic: 'The Constitution and Federalism',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2023,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q209',
+    question_text: 'Evaluate the view that US federalism creates inequality between states.',
+    paper: 'US Politics',
+    topic: 'The Constitution and Federalism',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2022,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q210',
+    question_text: 'Evaluate the view that separation of powers is the main strength of the US Constitution.',
+    paper: 'US Politics',
+    topic: 'The Constitution and Federalism',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2021,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q211',
+    question_text: 'Evaluate the view that checks and balances lead to excessive gridlock.',
+    paper: 'US Politics',
+    topic: 'The Constitution and Federalism',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Advanced',
+    source_type: 'Past Paper',
+    source_year: 2020,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q212',
+    question_text: 'Evaluate the view that checks and balances remain effective today.',
+    paper: 'US Politics',
+    topic: 'The Constitution and Federalism',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2023,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q213',
+    question_text: 'Evaluate the view that the branches of government are no longer truly separate.',
+    paper: 'US Politics',
+    topic: 'The Constitution and Federalism',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Advanced',
+    source_type: 'Predicted',
+    created_at: new Date().toISOString()
+  },
+  // US Politics - Congress
+  {
+    id: 'q214',
+    question_text: 'Evaluate the view that Congress is the most powerful branch of US government.',
+    paper: 'US Politics',
+    topic: 'Congress',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2023,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q215',
+    question_text: 'Evaluate the view that Congress has lost power relative to the presidency.',
+    paper: 'US Politics',
+    topic: 'Congress',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2022,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q216',
+    question_text: 'Evaluate the view that Congress is effective in performing its constitutional functions.',
+    paper: 'US Politics',
+    topic: 'Congress',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2021,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q217',
+    question_text: 'Evaluate the view that the Senate is the more powerful and prestigious House of US Congress.',
+    paper: 'US Politics',
+    topic: 'Congress',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2020,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q218',
+    question_text: 'Evaluate the view that Congress is unrepresentative of the American people.',
+    paper: 'US Politics',
+    topic: 'Congress',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2023,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q219',
+    question_text: 'Evaluate the view that incumbency undermines democracy in Congress.',
+    paper: 'US Politics',
+    topic: 'Congress',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2022,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q220',
+    question_text: 'Evaluate the view that elections to Congress ensure accountability.',
+    paper: 'US Politics',
+    topic: 'Congress',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2021,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q221',
+    question_text: 'Evaluate the view that the legislative process in Congress is ineffective.',
+    paper: 'US Politics',
+    topic: 'Congress',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2020,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q222',
+    question_text: 'Evaluate the view that partisanship has undermined Congress\'s legislative role.',
+    paper: 'US Politics',
+    topic: 'Congress',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Advanced',
+    source_type: 'Past Paper',
+    source_year: 2023,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q223',
+    question_text: 'Evaluate the view that Congress is unable to respond effectively to contemporary issues.',
+    paper: 'US Politics',
+    topic: 'Congress',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Predicted',
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q224',
+    question_text: 'Evaluate the view that Congress effectively holds the executive to account.',
+    paper: 'US Politics',
+    topic: 'Congress',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2022,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q225',
+    question_text: 'Evaluate the view that congressional oversight has declined in recent years.',
+    paper: 'US Politics',
+    topic: 'Congress',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2021,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q226',
+    question_text: 'Evaluate the view that divided government strengthens congressional oversight.',
+    paper: 'US Politics',
+    topic: 'Congress',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Predicted',
+    created_at: new Date().toISOString()
+  },
+  // US Politics - The Presidency
+  {
+    id: 'q227',
+    question_text: 'Evaluate the view that the formal powers of the president are limited.',
+    paper: 'US Politics',
+    topic: 'The Presidency',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2023,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q228',
+    question_text: 'Evaluate the view that the presidency has become too powerful.',
+    paper: 'US Politics',
+    topic: 'The Presidency',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2022,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q229',
+    question_text: 'Evaluate the view that the president dominates the policy-making process.',
+    paper: 'US Politics',
+    topic: 'The Presidency',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2021,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q230',
+    question_text: 'Evaluate the view that informal powers are more significant than formal powers.',
+    paper: 'US Politics',
+    topic: 'The Presidency',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Advanced',
+    source_type: 'Past Paper',
+    source_year: 2020,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q231',
+    question_text: 'Evaluate the view that executive orders undermine democracy.',
+    paper: 'US Politics',
+    topic: 'The Presidency',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2023,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q232',
+    question_text: 'Evaluate the view that the president\'s power of persuasion is decisive.',
+    paper: 'US Politics',
+    topic: 'The Presidency',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Advanced',
+    source_type: 'Past Paper',
+    source_year: 2022,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q233',
+    question_text: 'Evaluate the view that the electoral mandate strengthens presidential authority.',
+    paper: 'US Politics',
+    topic: 'The Presidency',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2021,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q234',
+    question_text: 'Evaluate the view that the president is effectively constrained by Congress.',
+    paper: 'US Politics',
+    topic: 'The Presidency',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2020,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q235',
+    question_text: 'Evaluate the view that the Supreme Court limits presidential power.',
+    paper: 'US Politics',
+    topic: 'The Presidency',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2023,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q236',
+    question_text: 'Evaluate the view that divided government weakens the presidency.',
+    paper: 'US Politics',
+    topic: 'The Presidency',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2022,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q237',
+    question_text: 'Evaluate the view that presidential power declines over time.',
+    paper: 'US Politics',
+    topic: 'The Presidency',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Predicted',
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q238',
+    question_text: 'Evaluate the view that the US presidency is imperial.',
+    paper: 'US Politics',
+    topic: 'The Presidency',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Advanced',
+    source_type: 'Past Paper',
+    source_year: 2021,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q239',
+    question_text: 'Evaluate the view that modern presidents are imperilled rather than imperial.',
+    paper: 'US Politics',
+    topic: 'The Presidency',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Advanced',
+    source_type: 'Past Paper',
+    source_year: 2020,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q240',
+    question_text: 'Evaluate the view that presidents since 1992 have been effective leaders.',
+    paper: 'US Politics',
+    topic: 'The Presidency',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2023,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q241',
+    question_text: 'Evaluate the view that the president is insufficiently accountable.',
+    paper: 'US Politics',
+    topic: 'The Presidency',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2022,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q242',
+    question_text: 'Evaluate the view that the president dominates US foreign policy.',
+    paper: 'US Politics',
+    topic: 'The Presidency',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2021,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q243',
+    question_text: 'Evaluate the view that the US President is more powerful in foreign policy than domestic policy.',
+    paper: 'US Politics',
+    topic: 'The Presidency',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Advanced',
+    source_type: 'Predicted',
+    created_at: new Date().toISOString()
+  },
+  // US Politics - The Supreme Court and Civil Rights
+  {
+    id: 'q244',
+    question_text: 'Evaluate the view that the Supreme Court is the most powerful branch of government.',
+    paper: 'US Politics',
+    topic: 'The Supreme Court and Civil Rights',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2023,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q245',
+    question_text: 'Evaluate the view that the Supreme Court has become overly political.',
+    paper: 'US Politics',
+    topic: 'The Supreme Court and Civil Rights',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2022,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q246',
+    question_text: 'Evaluate the view that judicial review strengthens democracy.',
+    paper: 'US Politics',
+    topic: 'The Supreme Court and Civil Rights',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2021,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q247',
+    question_text: 'Evaluate the view that the Supreme Court acts as an imperial judiciary.',
+    paper: 'US Politics',
+    topic: 'The Supreme Court and Civil Rights',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Advanced',
+    source_type: 'Past Paper',
+    source_year: 2020,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q248',
+    question_text: 'Evaluate the view that the Supreme Court effectively protects civil rights.',
+    paper: 'US Politics',
+    topic: 'The Supreme Court and Civil Rights',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2023,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q249',
+    question_text: 'Evaluate the view that constitutional rights are unevenly protected in the USA.',
+    paper: 'US Politics',
+    topic: 'The Supreme Court and Civil Rights',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2022,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q250',
+    question_text: 'Evaluate the view that the Supreme Court has failed to uphold civil liberties.',
+    paper: 'US Politics',
+    topic: 'The Supreme Court and Civil Rights',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2021,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q251',
+    question_text: 'Evaluate the view that affirmative action has been ineffective.',
+    paper: 'US Politics',
+    topic: 'The Supreme Court and Civil Rights',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2020,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q252',
+    question_text: 'Evaluate the view that racial equality remains unachieved in the USA.',
+    paper: 'US Politics',
+    topic: 'The Supreme Court and Civil Rights',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Predicted',
+    created_at: new Date().toISOString()
+  },
+  // US Politics - Democracy and Participation
+  {
+    id: 'q253',
+    question_text: 'Evaluate the view that the US electoral system is democratic.',
+    paper: 'US Politics',
+    topic: 'Democracy and Participation',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2023,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q254',
+    question_text: 'Evaluate the view that the Electoral College undermines democracy.',
+    paper: 'US Politics',
+    topic: 'Democracy and Participation',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2022,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q255',
+    question_text: 'Evaluate the view that the presidential election process requires reform.',
+    paper: 'US Politics',
+    topic: 'Democracy and Participation',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2021,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q256',
+    question_text: 'Evaluate the view that incumbency distorts electoral competition.',
+    paper: 'US Politics',
+    topic: 'Democracy and Participation',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2020,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q257',
+    question_text: 'Evaluate the view that campaign finance undermines democracy.',
+    paper: 'US Politics',
+    topic: 'Democracy and Participation',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2023,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q258',
+    question_text: 'Evaluate the view that campaign finance is in need of reform in the United States.',
+    paper: 'US Politics',
+    topic: 'Democracy and Participation',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2022,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q259',
+    question_text: 'Evaluate the view that effective reform of campaign finance is impossible.',
+    paper: 'US Politics',
+    topic: 'Democracy and Participation',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Advanced',
+    source_type: 'Past Paper',
+    source_year: 2021,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q260',
+    question_text: 'Evaluate the view that the two-party system benefits US democracy.',
+    paper: 'US Politics',
+    topic: 'Democracy and Participation',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2020,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q261',
+    question_text: 'Evaluate the view that parties have declined in importance.',
+    paper: 'US Politics',
+    topic: 'Democracy and Participation',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2023,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q262',
+    question_text: 'Evaluate the view that there are more divisions between political parties than within them.',
+    paper: 'US Politics',
+    topic: 'Democracy and Participation',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2022,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q263',
+    question_text: 'Evaluate the view that social factors are the main determinant of voting behaviour.',
+    paper: 'US Politics',
+    topic: 'Democracy and Participation',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2021,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q264',
+    question_text: 'Evaluate the view that US elections are increasingly polarised.',
+    paper: 'US Politics',
+    topic: 'Democracy and Participation',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2020,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q265',
+    question_text: 'Evaluate the view that interest groups strengthen US democracy.',
+    paper: 'US Politics',
+    topic: 'Democracy and Participation',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2023,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q266',
+    question_text: 'Evaluate the view that interest groups have too much influence.',
+    paper: 'US Politics',
+    topic: 'Democracy and Participation',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2022,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q267',
+    question_text: 'Evaluate the view that using the courts is the most effective method used by interest groups in the US.',
+    paper: 'US Politics',
+    topic: 'Democracy and Participation',
+    mark_allocation: 30,
+    recommended_time: 7,
+    difficulty: 'Intermediate',
+    source_type: 'Predicted',
+    created_at: new Date().toISOString()
+  },
+  // Political Ideas - Conservatism
+  {
+    id: 'q268',
+    question_text: 'To what extent do conservatives agree on the principle of human imperfection?',
+    paper: 'Political Ideas',
+    topic: 'Conservatism',
+    mark_allocation: 24,
+    recommended_time: 5,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2023,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q269',
+    question_text: 'To what extent do conservatives agree on the principle of pragmatism?',
+    paper: 'Political Ideas',
+    topic: 'Conservatism',
+    mark_allocation: 24,
+    recommended_time: 5,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2022,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q270',
+    question_text: 'To what extent do conservatives agree on the principle of paternalism?',
+    paper: 'Political Ideas',
+    topic: 'Conservatism',
+    mark_allocation: 24,
+    recommended_time: 5,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2021,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q271',
+    question_text: 'To what extent do conservatives agree on the concept of organic society?',
+    paper: 'Political Ideas',
+    topic: 'Conservatism',
+    mark_allocation: 24,
+    recommended_time: 5,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2020,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q272',
+    question_text: 'To what extent do conservatives agree on the importance of tradition?',
+    paper: 'Political Ideas',
+    topic: 'Conservatism',
+    mark_allocation: 24,
+    recommended_time: 5,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2023,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q273',
+    question_text: 'To what extent is libertarianism compatible with conservatism?',
+    paper: 'Political Ideas',
+    topic: 'Conservatism',
+    mark_allocation: 24,
+    recommended_time: 5,
+    difficulty: 'Advanced',
+    source_type: 'Past Paper',
+    source_year: 2022,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q274',
+    question_text: 'To what extent do conservatives agree on the role of the state?',
+    paper: 'Political Ideas',
+    topic: 'Conservatism',
+    mark_allocation: 24,
+    recommended_time: 5,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2021,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q275',
+    question_text: 'To what extent do conservatives agree on the importance of hierarchy?',
+    paper: 'Political Ideas',
+    topic: 'Conservatism',
+    mark_allocation: 24,
+    recommended_time: 5,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2020,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q276',
+    question_text: 'To what extent do conservatives agree on the importance of authority?',
+    paper: 'Political Ideas',
+    topic: 'Conservatism',
+    mark_allocation: 24,
+    recommended_time: 5,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2023,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q277',
+    question_text: 'To what extent do conservatives agree with the idea of \'change to conserve\'?',
+    paper: 'Political Ideas',
+    topic: 'Conservatism',
+    mark_allocation: 24,
+    recommended_time: 5,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2022,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q278',
+    question_text: 'To what extent is atomism compatible with conservatism?',
+    paper: 'Political Ideas',
+    topic: 'Conservatism',
+    mark_allocation: 24,
+    recommended_time: 5,
+    difficulty: 'Advanced',
+    source_type: 'Past Paper',
+    source_year: 2021,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q279',
+    question_text: 'To what extent do conservatives agree on the principle of noblesse oblige?',
+    paper: 'Political Ideas',
+    topic: 'Conservatism',
+    mark_allocation: 24,
+    recommended_time: 5,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2020,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q280',
+    question_text: 'To what extent do conservatives agree on anti-permissiveness?',
+    paper: 'Political Ideas',
+    topic: 'Conservatism',
+    mark_allocation: 24,
+    recommended_time: 5,
+    difficulty: 'Intermediate',
+    source_type: 'Predicted',
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q281',
+    question_text: 'To what extent do conservatives reject radicalism?',
+    paper: 'Political Ideas',
+    topic: 'Conservatism',
+    mark_allocation: 24,
+    recommended_time: 5,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2023,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q282',
+    question_text: 'To what extent do conservatives agree on laissez-faire economics?',
+    paper: 'Political Ideas',
+    topic: 'Conservatism',
+    mark_allocation: 24,
+    recommended_time: 5,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2022,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q283',
+    question_text: 'To what extent do conservatives agree on empiricism?',
+    paper: 'Political Ideas',
+    topic: 'Conservatism',
+    mark_allocation: 24,
+    recommended_time: 5,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2021,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q284',
+    question_text: 'To what extent do conservatives agree on the view of human nature?',
+    paper: 'Political Ideas',
+    topic: 'Conservatism',
+    mark_allocation: 24,
+    recommended_time: 5,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2020,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q285',
+    question_text: 'To what extent do conservatives agree on the nature of society?',
+    paper: 'Political Ideas',
+    topic: 'Conservatism',
+    mark_allocation: 24,
+    recommended_time: 5,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2023,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q286',
+    question_text: 'To what extent do conservatives agree on the economy?',
+    paper: 'Political Ideas',
+    topic: 'Conservatism',
+    mark_allocation: 24,
+    recommended_time: 5,
+    difficulty: 'Intermediate',
+    source_type: 'Past Paper',
+    source_year: 2022,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: 'q287',
+    question_text: 'To what extent do conservatives agree about the role of the state?',
+    paper: 'Political Ideas',
+    topic: 'Conservatism',
+    mark_allocation: 24,
+    recommended_time: 5,
+    difficulty: 'Intermediate',
+    source_type: 'Predicted',
+    created_at: new Date().toISOString()
   }
 ];
 
@@ -11590,6 +12654,4480 @@ export const seedModelAnswers: ModelAnswer[] = [
       'Use specification thinkers',
       'Consider different forms of common ownership',
       'Distinguish abandonment by some from abandonment by all'
+    ]
+  },
+  // US Politics - The Constitution and Federalism Model Answers
+  {
+    id: 'ma199',
+    question_id: 'q199',
+    arguments_for: [
+      {
+        title: 'Checks and balances weakened',
+        explanation: 'Executive power has expanded through executive orders and unilateral action, undermining the original constitutional balance designed by the Founders.'
+      },
+      {
+        title: 'Federalism eroded',
+        explanation: 'Increased federal intervention in areas like healthcare and education standards has eroded state autonomy, centralising power contrary to constitutional design.'
+      },
+      {
+        title: 'Civil liberties compromised',
+        explanation: 'Post-9/11 security measures and surveillance have undermined constitutional protections enshrined in the Bill of Rights.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Checks still function',
+        explanation: 'Congress and the Supreme Court continue to block presidential overreach through legislation, funding control and judicial review, as seen in court rulings against executive orders.'
+      },
+      {
+        title: 'States retain power',
+        explanation: 'States retain significant control over taxation, policing, elections and social policy, demonstrating continued federal balance.'
+      },
+      {
+        title: 'Rights expanded',
+        explanation: 'Supreme Court rulings have expanded rights in areas like same-sex marriage (Obergefell v Hodges) and protection against racial gerrymandering.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to debates about living vs originalist interpretation',
+      'Link to federalism and states\' rights',
+      'Relate to separation of powers in practice'
+    ],
+    examples: [
+      {
+        title: 'Executive Orders under Obama and Trump',
+        context: 'Both presidents used executive orders extensively to bypass congressional gridlock, raising questions about constitutional balance.'
+      },
+      {
+        title: 'Dobbs v Jackson (2022)',
+        context: 'Overturning Roe v Wade demonstrated the Constitution\'s capacity for reinterpretation, for better or worse.'
+      }
+    ],
+    pitfalls: [
+      'Avoid assuming older equals outdated',
+      'Consider both structural and rights-based arguments',
+      'Use specific constitutional provisions and cases'
+    ]
+  },
+  {
+    id: 'ma200',
+    question_id: 'q200',
+    arguments_for: [
+      {
+        title: 'Separation of powers',
+        explanation: 'Power is deliberately fragmented across three branches, preventing any one branch from dominating and ensuring limited government.'
+      },
+      {
+        title: 'Judicial review',
+        explanation: 'The Supreme Court can strike down unconstitutional laws and executive actions, providing an effective check on government power.'
+      },
+      {
+        title: 'Vertical federalism',
+        explanation: 'Power is divided vertically between federal and state governments as well as horizontally between branches, reinforcing limits on central authority.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Executive bypass',
+        explanation: 'Presidents increasingly bypass Congress through executive orders, emergency declarations and signing statements, weakening meaningful limits.'
+      },
+      {
+        title: 'Judicial politicisation',
+        explanation: 'Judicial politicisation undermines neutral constitutional guardianship, with appointments becoming increasingly partisan battlegrounds.'
+      },
+      {
+        title: 'Federal supremacy',
+        explanation: 'The Supremacy Clause and federal grants allow Washington to dominate states, undermining the limited government principle.'
+      }
+    ],
+    synoptic_links: [
+      'Link to Founding Fathers\' intentions',
+      'Connect to contemporary debates about executive power',
+      'Relate to liberal constitutionalism'
+    ],
+    examples: [
+      {
+        title: 'Youngstown Sheet & Tube v Sawyer (1952)',
+        context: 'Supreme Court blocked Truman\'s steel mill seizure, demonstrating judicial limits on executive power.'
+      },
+      {
+        title: 'Trump v Hawaii (2018)',
+        context: 'Court upheld travel ban, showing judicial deference to executive in national security matters.'
+      }
+    ],
+    pitfalls: [
+      'Define what limited government means',
+      'Balance theory with practical operation',
+      'Consider whether limits apply equally to all branches'
+    ]
+  },
+  {
+    id: 'ma201',
+    question_id: 'q201',
+    arguments_for: [
+      {
+        title: 'Amendment interpretation stretched',
+        explanation: 'Broad wording allows presidents and judges to stretch constitutional meaning far beyond original intent, creating uncertainty and inconsistency.'
+      },
+      {
+        title: 'Institutional conflict',
+        explanation: 'Ambiguous boundaries between branches fuel institutional conflict and gridlock, as seen in disputes over war powers and executive privilege.'
+      },
+      {
+        title: 'Judicial power expanded',
+        explanation: 'Vagueness empowers unelected judges to shape public policy through interpretation, raising democratic legitimacy concerns.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Flexibility and longevity',
+        explanation: 'Vagueness allows flexibility and longevity in a changing society, enabling the Constitution to adapt without constant formal amendment.'
+      },
+      {
+        title: 'Norms clarify roles',
+        explanation: 'Informal norms and precedent have clarified roles over time, with conventions filling gaps in constitutional text.'
+      },
+      {
+        title: 'Necessary interpretation',
+        explanation: 'Judicial interpretation is necessary to apply abstract principles like "due process" and "equal protection" to specific circumstances.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to originalism vs living constitution debate',
+      'Link to Supreme Court interpretive methods',
+      'Relate to debates about judicial activism'
+    ],
+    examples: [
+      {
+        title: 'Second Amendment',
+        context: 'The phrase "well regulated militia" creates ongoing controversy about individual gun rights versus collective militia rights.'
+      },
+      {
+        title: 'Commerce Clause',
+        context: 'Broad interpretation has allowed federal regulation of activities tangentially related to interstate commerce.'
+      }
+    ],
+    pitfalls: [
+      'Consider whether vagueness is a bug or feature',
+      'Distinguish between deliberate ambiguity and poor drafting',
+      'Use specific textual examples'
+    ]
+  },
+  {
+    id: 'ma202',
+    question_id: 'q202',
+    arguments_for: [
+      {
+        title: 'Clarity through codification',
+        explanation: 'A single written document enhances clarity and citizen awareness, providing accessible reference for constitutional rights and structures.'
+      },
+      {
+        title: 'Protection from populism',
+        explanation: 'Supermajority amendment rules protect democracy from short-term populism, preventing transient majorities from undermining fundamental principles.'
+      },
+      {
+        title: 'Entrenched rights',
+        explanation: 'Entrenched rights in the Bill of Rights cannot be easily removed by transient majorities, providing stable protection for minorities.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Limited citizen engagement',
+        explanation: 'Ordinary citizens rarely engage with the constitutional document in practice, limiting the educational benefits of codification.'
+      },
+      {
+        title: 'Reform barriers',
+        explanation: 'High barriers to amendment prevent democratic reform and adaptation, potentially entrenching outdated provisions.'
+      },
+      {
+        title: 'Judicial enforcement dependent',
+        explanation: 'Rights are only as strong as judicial willingness to enforce them, regardless of entrenchment.'
+      }
+    ],
+    synoptic_links: [
+      'Compare with UK uncodified constitution',
+      'Link to debates about constitutional reform',
+      'Relate to democratic theory and majoritarianism'
+    ],
+    examples: [
+      {
+        title: 'Equal Rights Amendment',
+        context: 'Failed to achieve ratification despite majority support, illustrating entrenchment barriers to reform.'
+      },
+      {
+        title: 'Bill of Rights',
+        context: 'Entrenched protections for speech, religion and due process have remained stable for over 230 years.'
+      }
+    ],
+    pitfalls: [
+      'Distinguish codification from entrenchment',
+      'Consider democratic vs rights-protecting functions',
+      'Evaluate whose democracy is strengthened'
+    ]
+  },
+  {
+    id: 'ma203',
+    question_id: 'q203',
+    arguments_for: [
+      {
+        title: 'Article V rigidity',
+        explanation: 'Article V makes reform extremely difficult, requiring two-thirds of both houses and three-quarters of states, meaning outdated provisions persist.'
+      },
+      {
+        title: 'Minority veto',
+        explanation: 'Minority states can block amendments supported by a national majority, with 13 small states able to prevent ratification.'
+      },
+      {
+        title: 'Reliance on informal change',
+        explanation: 'Reliance on judicial interpretation shows formal amendment failure, with the Court effectively amending the Constitution through rulings.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Stability through difficulty',
+        explanation: 'Difficulty ensures stability and consensus-based change, preventing hasty alterations to fundamental law.'
+      },
+      {
+        title: 'Federal consent ensured',
+        explanation: 'Federal approval requirements ensure nationwide consent, reflecting the federal nature of the Union.'
+      },
+      {
+        title: 'System flexibility proven',
+        explanation: 'Informal change through interpretation and convention proves the system\'s flexibility without formal amendment.'
+      }
+    ],
+    synoptic_links: [
+      'Compare with amendment processes in other democracies',
+      'Link to federalism and state representation',
+      'Relate to debates about constitutional rigidity'
+    ],
+    examples: [
+      {
+        title: 'Only 27 amendments in 230+ years',
+        context: 'Compared to hundreds of amendments in other constitutions, demonstrating extreme difficulty of formal change.'
+      },
+      {
+        title: 'Prohibition (18th and 21st Amendments)',
+        context: 'Rare successful amendments show the process can work when genuine consensus exists.'
+      }
+    ],
+    pitfalls: [
+      'Consider whether difficulty is a feature or bug',
+      'Evaluate informal adaptation as alternative',
+      'Use comparative examples from other constitutions'
+    ]
+  },
+  {
+    id: 'ma204',
+    question_id: 'q204',
+    arguments_for: [
+      {
+        title: 'Gridlock endemic',
+        explanation: 'Separation of powers often leads to stalemate and inaction, with divided government producing legislative paralysis on major issues.'
+      },
+      {
+        title: 'Federalism slows response',
+        explanation: 'Divided authority between federal and state governments slows national responses to crises like pandemics or climate change.'
+      },
+      {
+        title: 'Executive agenda frustrated',
+        explanation: 'Presidents struggle to deliver coherent legislative agendas, with major initiatives often blocked by Congress.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Gridlock prevents rashness',
+        explanation: 'Gridlock prevents rash or authoritarian policymaking, forcing deliberation and compromise.'
+      },
+      {
+        title: 'States as laboratories',
+        explanation: 'States act as policy laboratories, allowing innovation and experimentation that enhances overall effectiveness.'
+      },
+      {
+        title: 'Executive can lead',
+        explanation: 'Executive orders and informal powers allow presidential leadership even during congressional gridlock.'
+      }
+    ],
+    synoptic_links: [
+      'Link to debates about presidential systems vs parliamentary',
+      'Connect to federalism and policy diversity',
+      'Relate to democratic deliberation theory'
+    ],
+    examples: [
+      {
+        title: 'Healthcare reform struggles',
+        context: 'Decades of gridlock on healthcare reform illustrate constitutional barriers to comprehensive policy change.'
+      },
+      {
+        title: 'COVID-19 response',
+        context: 'Federal-state coordination challenges during pandemic highlighted potential weaknesses in federal system.'
+      }
+    ],
+    pitfalls: [
+      'Define what effective government means',
+      'Consider whether slow government might be good',
+      'Balance efficiency against deliberation'
+    ]
+  },
+  {
+    id: 'ma205',
+    question_id: 'q205',
+    arguments_for: [
+      {
+        title: 'Fiscal federalism dominance',
+        explanation: 'Federal grants with conditions force states to adopt national priorities, with funding dependence reducing genuine state autonomy.'
+      },
+      {
+        title: 'Courts favour federal supremacy',
+        explanation: 'Supreme Court rulings increasingly favour federal supremacy, expanding congressional power under the Commerce Clause.'
+      },
+      {
+        title: 'National standards reduce diversity',
+        explanation: 'National standards in education, healthcare and environment reduce meaningful state policy diversity.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'States can reject federal funds',
+        explanation: 'States can reject federal funds and set independent policies, as seen with Medicaid expansion under the ACA.'
+      },
+      {
+        title: 'Devolution reinforced',
+        explanation: 'Devolution has been reinforced in areas like gun laws and abortion post-Dobbs, with states exercising significant autonomy.'
+      },
+      {
+        title: 'Significant variation persists',
+        explanation: 'Significant inter-state variation remains in taxation, criminal justice, education and social policy.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to debates about dual vs cooperative federalism',
+      'Link to Tenth Amendment and reserved powers',
+      'Relate to states\' rights movements'
+    ],
+    examples: [
+      {
+        title: 'NFIB v Sebelius (2012)',
+        context: 'Court ruled Medicaid expansion could not be coerced, protecting state autonomy in federal funding context.'
+      },
+      {
+        title: 'Dobbs v Jackson (2022)',
+        context: 'Returning abortion to states demonstrated federalism can still transfer significant policy control.'
+      }
+    ],
+    pitfalls: [
+      'Define what genuinely federal means',
+      'Consider different policy areas separately',
+      'Avoid conflating federal power with federal supremacy'
+    ]
+  },
+  {
+    id: 'ma206',
+    question_id: 'q206',
+    arguments_for: [
+      {
+        title: 'Increased participation',
+        explanation: 'Local government increases citizen engagement and accountability, with more opportunities for participation at state and local levels.'
+      },
+      {
+        title: 'Regional representation',
+        explanation: 'States reflect diverse regional preferences, allowing policies to match local values and conditions.'
+      },
+      {
+        title: 'Tyranny prevention',
+        explanation: 'Power diffusion prevents authoritarian centralisation, with multiple veto points protecting against concentrated power.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Low state awareness',
+        explanation: 'Low awareness of state politics limits democratic benefit, with citizens focusing primarily on national elections.'
+      },
+      {
+        title: 'Federalism entrenches inequality',
+        explanation: 'Federalism entrenches inequality between citizens, with rights and services varying significantly by state.'
+      },
+      {
+        title: 'National will frustrated',
+        explanation: 'Fragmentation can undermine national democratic will, with state-level minorities blocking nationally popular policies.'
+      }
+    ],
+    synoptic_links: [
+      'Link to democratic theory and participation',
+      'Connect to debates about equality vs liberty',
+      'Relate to size of democracy debates'
+    ],
+    examples: [
+      {
+        title: 'State-level ballot initiatives',
+        context: 'Direct democracy mechanisms in states like California allow citizen participation beyond elections.'
+      },
+      {
+        title: 'Voter suppression laws',
+        context: 'State control over elections has enabled voter suppression in some states, undermining democratic participation.'
+      }
+    ],
+    pitfalls: [
+      'Define democracy clearly',
+      'Consider whose democracy is strengthened',
+      'Balance participation against equal treatment'
+    ]
+  },
+  {
+    id: 'ma207',
+    question_id: 'q207',
+    arguments_for: [
+      {
+        title: 'Coordination problems',
+        explanation: 'State-federal conflict delays action on national issues, with jurisdictional disputes complicating policy implementation.'
+      },
+      {
+        title: 'Policy inequality',
+        explanation: 'Citizens experience uneven policy outcomes depending on state residence, creating unfair disparities.'
+      },
+      {
+        title: 'Crisis response weakened',
+        explanation: 'Fragmentation weakens responses to emergencies requiring coordinated national action.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Tailored solutions',
+        explanation: 'Shared powers allow tailored solutions reflecting local conditions and preferences.'
+      },
+      {
+        title: 'Local democratic choice',
+        explanation: 'Policy variation reflects democratic local choice rather than arbitrary inequality.'
+      },
+      {
+        title: 'States act faster',
+        explanation: 'States can act faster than federal government, implementing innovative policies without national consensus.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to debates about policy laboratories',
+      'Link to equal protection and citizenship',
+      'Relate to crisis management in federal systems'
+    ],
+    examples: [
+      {
+        title: 'Climate change policy',
+        context: 'Federal inaction has prompted state-level climate initiatives, showing both innovation and coordination challenges.'
+      },
+      {
+        title: 'COVID-19 response variation',
+        context: 'Vastly different state responses to pandemic illustrated both federalism\'s flexibility and coordination problems.'
+      }
+    ],
+    pitfalls: [
+      'Define effective policymaking criteria',
+      'Consider which policy areas work better at which level',
+      'Avoid assuming uniformity equals effectiveness'
+    ]
+  },
+  {
+    id: 'ma208',
+    question_id: 'q208',
+    arguments_for: [
+      {
+        title: 'Federal legislation expands',
+        explanation: 'Congress sets nationwide standards across policy areas from civil rights to environmental protection, expanding federal reach.'
+      },
+      {
+        title: 'Judicial expansion',
+        explanation: 'Supreme Court decisions expand federal reach through broad interpretation of constitutional powers.'
+      },
+      {
+        title: 'Fiscal dependence',
+        explanation: 'States rely heavily on federal funding, creating dependence that reduces practical autonomy.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'States resist and challenge',
+        explanation: 'States resist and challenge federal authority through litigation, non-cooperation and policy divergence.'
+      },
+      {
+        title: 'Courts defend sovereignty',
+        explanation: 'Courts sometimes defend state sovereignty, as in decisions limiting federal commandeering of state officials.'
+      },
+      {
+        title: 'Taxation autonomy remains',
+        explanation: 'States retain taxation and budgetary autonomy, controlling significant resources independently.'
+      }
+    ],
+    synoptic_links: [
+      'Link to historical evolution of federalism',
+      'Connect to Commerce Clause expansion',
+      'Relate to Tenth Amendment jurisprudence'
+    ],
+    examples: [
+      {
+        title: 'New Deal expansion',
+        context: 'Federal power expanded dramatically from 1930s, establishing precedent for national intervention.'
+      },
+      {
+        title: 'Printz v United States (1997)',
+        context: 'Court limited federal power to commandeer state officials, protecting state sovereignty.'
+      }
+    ],
+    pitfalls: [
+      'Consider different eras of federalism',
+      'Distinguish formal power from practical influence',
+      'Use specific constitutional provisions'
+    ]
+  },
+  {
+    id: 'ma209',
+    question_id: 'q209',
+    arguments_for: [
+      {
+        title: 'Social policy variation',
+        explanation: 'Education, healthcare and welfare vary dramatically between states, creating vastly different life chances based on residence.'
+      },
+      {
+        title: 'Rights depend on location',
+        explanation: 'Citizens\' rights depend on their location, with fundamental freedoms varying between states.'
+      },
+      {
+        title: 'Economic disparity effects',
+        explanation: 'Wealthier states deliver better services, with poorer states unable to match standards despite similar needs.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Variation reflects choice',
+        explanation: 'Policy variation reflects democratic local choice about priorities and values, not arbitrary inequality.'
+      },
+      {
+        title: 'Federal minimum standards',
+        explanation: 'Federal courts enforce minimum standards through constitutional interpretation, ensuring baseline rights.'
+      },
+      {
+        title: 'Redistribution mitigates',
+        explanation: 'Federal redistribution through grants and programs mitigates inequality between states.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to debates about equality vs federalism',
+      'Link to equal protection jurisprudence',
+      'Relate to fiscal federalism'
+    ],
+    examples: [
+      {
+        title: 'Medicaid coverage variation',
+        context: 'States that rejected ACA expansion left millions without coverage available to residents of other states.'
+      },
+      {
+        title: 'Education funding disparities',
+        context: 'Per-pupil spending varies dramatically between states, affecting educational opportunity.'
+      }
+    ],
+    pitfalls: [
+      'Distinguish inequality from diversity',
+      'Consider whether uniform national policy is desirable',
+      'Use concrete policy examples'
+    ]
+  },
+  {
+    id: 'ma210',
+    question_id: 'q210',
+    arguments_for: [
+      {
+        title: 'Liberty protection',
+        explanation: 'Separation prevents concentration of power, protecting individual liberty through institutional fragmentation.'
+      },
+      {
+        title: 'Mutual scrutiny',
+        explanation: 'Branches scrutinise one another, with each checking the others\' potential overreach.'
+      },
+      {
+        title: 'Encourages caution',
+        explanation: 'Separation encourages cautious policymaking, requiring broader consensus for major changes.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Government paralysis',
+        explanation: 'Separation can paralyse government, preventing action on pressing national problems.'
+      },
+      {
+        title: 'Blurred accountability',
+        explanation: 'Blurred responsibility weakens accountability, with citizens unable to clearly assign blame or credit.'
+      },
+      {
+        title: 'Slows reform',
+        explanation: 'Separation slows necessary reform, entrenching status quo against popular pressure for change.'
+      }
+    ],
+    synoptic_links: [
+      'Link to Madisonian theory',
+      'Connect to contemporary gridlock debates',
+      'Relate to presidential vs parliamentary systems'
+    ],
+    examples: [
+      {
+        title: 'Watergate and Nixon resignation',
+        context: 'Congressional investigations and judicial rulings demonstrated separation of powers checking presidential abuse.'
+      },
+      {
+        title: 'Government shutdowns',
+        context: 'Recurring shutdowns illustrate how separation can produce dysfunction rather than deliberation.'
+      }
+    ],
+    pitfalls: [
+      'Consider other constitutional strengths beyond separation',
+      'Balance liberty protection against effectiveness',
+      'Use specific examples of separation working'
+    ]
+  },
+  {
+    id: 'ma211',
+    question_id: 'q211',
+    arguments_for: [
+      {
+        title: 'Divided government blocks legislation',
+        explanation: 'Institutional rivalry blocks legislation during divided government, with opposing parties using checks to obstruct rather than deliberate.'
+      },
+      {
+        title: 'Presidents act unilaterally',
+        explanation: 'Presidents act unilaterally through executive orders to bypass gridlock, undermining the constitutional design.'
+      },
+      {
+        title: 'Public mandates frustrated',
+        explanation: 'Public mandates are frustrated by minority obstruction, with the filibuster allowing small groups to block popular legislation.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Encourages compromise',
+        explanation: 'Checks encourage compromise and moderation, requiring bipartisan cooperation for major legislation.'
+      },
+      {
+        title: 'Courts and Congress restrain',
+        explanation: 'Courts and Congress restrain unilateralism, blocking or overturning executive overreach.'
+      },
+      {
+        title: 'Prevents tyranny of majority',
+        explanation: 'Checks prevent tyranny of the majority, protecting minority rights and requiring broader consensus.'
+      }
+    ],
+    synoptic_links: [
+      'Link to polarisation and partisan conflict',
+      'Connect to filibuster reform debates',
+      'Relate to theories of deliberative democracy'
+    ],
+    examples: [
+      {
+        title: 'Obama era gridlock',
+        context: 'Republican Congress blocked Obama\'s legislative agenda, demonstrating checks producing stalemate.'
+      },
+      {
+        title: 'Bipartisan Infrastructure Law (2021)',
+        context: 'Major bipartisan legislation showed checks can still produce compromise outcomes.'
+      }
+    ],
+    pitfalls: [
+      'Distinguish gridlock from deliberation',
+      'Consider whether all gridlock is bad',
+      'Use examples from different political eras'
+    ]
+  },
+  {
+    id: 'ma212',
+    question_id: 'q212',
+    arguments_for: [
+      {
+        title: 'Congressional oversight continues',
+        explanation: 'Investigations and budgetary powers constrain executives, with hearings exposing wrongdoing and appropriations controlling spending.'
+      },
+      {
+        title: 'Judicial review active',
+        explanation: 'Courts continue to limit unconstitutional action, striking down executive orders and legislation that exceed constitutional bounds.'
+      },
+      {
+        title: 'Informal powers constrained',
+        explanation: 'Even informal presidential powers face legal and political limits, with courts reviewing executive actions.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Partisanship undermines scrutiny',
+        explanation: 'Partisanship undermines scrutiny, with congressional majorities protecting co-partisan presidents from investigation.'
+      },
+      {
+        title: 'Court politicisation',
+        explanation: 'Politicisation weakens judicial credibility, with partisan appointments raising questions about neutral constitutional enforcement.'
+      },
+      {
+        title: 'Executive expansion weakens checks',
+        explanation: 'Informal executive powers have expanded beyond what checks can effectively constrain.'
+      }
+    ],
+    synoptic_links: [
+      'Link to debates about constitutional norms',
+      'Connect to judicial independence',
+      'Relate to presidential power theories'
+    ],
+    examples: [
+      {
+        title: 'Trump impeachments',
+        context: 'Two impeachments but no conviction demonstrated both the use and limits of checks on presidential misconduct.'
+      },
+      {
+        title: 'Trump v United States (2024)',
+        context: 'Presidential immunity ruling showed judicial limits on holding presidents accountable.'
+      }
+    ],
+    pitfalls: [
+      'Define what effective means',
+      'Consider whether checks need to succeed to be effective',
+      'Use recent and historical examples'
+    ]
+  },
+  {
+    id: 'ma213',
+    question_id: 'q213',
+    arguments_for: [
+      {
+        title: 'Executive influence pervasive',
+        explanation: 'Presidents shape legislation through lobbying and judicial appointments, blurring lines between branches.'
+      },
+      {
+        title: 'Partisanship overrides institution',
+        explanation: 'Party loyalty overrides institutional independence, with members prioritising party over branch.'
+      },
+      {
+        title: 'Courts reflect partisanship',
+        explanation: 'Courts increasingly reflect partisan agendas, with justices voting predictably along ideological lines.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Formal powers distinct',
+        explanation: 'Formal powers remain constitutionally distinct, with each branch retaining exclusive authorities.'
+      },
+      {
+        title: 'Divided government restores separation',
+        explanation: 'Divided government restores separation, with opposing party control creating genuine inter-branch conflict.'
+      },
+      {
+        title: 'Lifetime tenure preserves independence',
+        explanation: 'Lifetime judicial tenure preserves independence, insulating judges from political pressure once confirmed.'
+      }
+    ],
+    synoptic_links: [
+      'Link to Neustadt\'s persuasion theory',
+      'Connect to judicial independence debates',
+      'Relate to party government vs separation'
+    ],
+    examples: [
+      {
+        title: 'Unified Republican government 2017-18',
+        context: 'Republican Congress largely supported Trump agenda, raising questions about meaningful separation.'
+      },
+      {
+        title: 'Chief Justice Roberts swing votes',
+        context: 'Roberts\' occasional departures from conservative bloc demonstrate judicial independence possible.'
+      }
+    ],
+    pitfalls: [
+      'Distinguish formal from functional separation',
+      'Consider whether some overlap is inevitable',
+      'Use examples of both cooperation and conflict'
+    ]
+  },
+  // US Politics - Congress Model Answers
+  {
+    id: 'ma214',
+    question_id: 'q214',
+    arguments_for: [
+      {
+        title: 'Legislative authority',
+        explanation: 'Congress controls law-making, taxation and the federal budget, giving it structural supremacy under Article I of the Constitution.'
+      },
+      {
+        title: 'Oversight powers',
+        explanation: 'Investigations, hearings and impeachment allow Congress to check the executive and hold presidents accountable.'
+      },
+      {
+        title: 'Constitutional status',
+        explanation: 'Article I grants Congress extensive enumerated powers including declaring war, regulating commerce and confirming appointments.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Gridlock neutralises power',
+        explanation: 'Legislative power is often neutralised by gridlock and presidential vetoes, preventing Congress from exercising its authority.'
+      },
+      {
+        title: 'Partisanship weakens oversight',
+        explanation: 'Partisanship weakens willingness to hold co-partisan presidents accountable, undermining oversight function.'
+      },
+      {
+        title: 'Informal presidential powers',
+        explanation: 'Informal presidential powers frequently outweigh formal congressional authority in practice.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to separation of powers debates',
+      'Link to executive power expansion',
+      'Relate to Madisonian constitutional design'
+    ],
+    examples: [
+      {
+        title: 'Power of the purse',
+        context: 'Congress controls all federal spending, theoretically giving it leverage over executive priorities.'
+      },
+      {
+        title: 'Senate confirmation battles',
+        context: 'Senate confirmation power over judicial and executive appointments demonstrates significant congressional influence.'
+      }
+    ],
+    pitfalls: [
+      'Define power clearly - formal vs practical',
+      'Consider variation across policy areas',
+      'Compare with other branches systematically'
+    ]
+  },
+  {
+    id: 'ma215',
+    question_id: 'q215',
+    arguments_for: [
+      {
+        title: 'Executive expansion',
+        explanation: 'Executive orders and unilateral action bypass Congress, with presidents increasingly governing without legislative approval.'
+      },
+      {
+        title: 'War and foreign policy dominance',
+        explanation: 'Presidents dominate military and diplomatic decisions, deploying forces without congressional declaration of war.'
+      },
+      {
+        title: 'Media focus on president',
+        explanation: 'Media focus enhances presidential dominance, with the "bully pulpit" giving presidents communication advantages.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Funding control persists',
+        explanation: 'Congress can block funding and overturn executive action through legislation and appropriations riders.'
+      },
+      {
+        title: 'War powers retained',
+        explanation: 'Congress retains war powers and treaty ratification authority, with the power of the purse limiting military action.'
+      },
+      {
+        title: 'Institutional power remains',
+        explanation: 'Institutional power does not depend on visibility; Congress retains constitutional authorities regardless of media attention.'
+      }
+    ],
+    synoptic_links: [
+      'Link to imperial presidency thesis',
+      'Connect to War Powers Resolution',
+      'Relate to executive order expansion'
+    ],
+    examples: [
+      {
+        title: 'Obama DACA executive action',
+        context: 'Immigration policy made through executive action after congressional failure to pass reform.'
+      },
+      {
+        title: 'Congressional resistance to Trump',
+        context: 'Democratic House blocked Trump legislative agenda 2019-20, demonstrating congressional power during divided government.'
+      }
+    ],
+    pitfalls: [
+      'Consider historical trajectory of power balance',
+      'Distinguish between different policy areas',
+      'Avoid overstating presidential dominance'
+    ]
+  },
+  {
+    id: 'ma216',
+    question_id: 'q216',
+    arguments_for: [
+      {
+        title: 'Major laws pass',
+        explanation: 'Major laws continue to pass, especially under unified government, demonstrating legislative capacity.'
+      },
+      {
+        title: 'Local representation',
+        explanation: 'Members reflect local and state interests, providing constituency representation through casework and legislation.'
+      },
+      {
+        title: 'Committee scrutiny',
+        explanation: 'Committees scrutinise executive behaviour through hearings and investigations, fulfilling oversight function.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Productivity declined',
+        explanation: 'Legislative productivity has declined due to polarisation, with fewer bills becoming law.'
+      },
+      {
+        title: 'Representation distorted',
+        explanation: 'Gerrymandering and incumbency distort representation, reducing electoral competition.'
+      },
+      {
+        title: 'Oversight inconsistent',
+        explanation: 'Oversight is inconsistent and partisan, with intensity depending on which party controls which branch.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to theories of representation',
+      'Link to legislative process analysis',
+      'Relate to congressional reform proposals'
+    ],
+    examples: [
+      {
+        title: 'Bipartisan Infrastructure Law (2021)',
+        context: 'Major legislation passed with bipartisan support, showing Congress can still function.'
+      },
+      {
+        title: 'Do-nothing Congress criticism',
+        context: 'Low legislative output in recent Congresses raises questions about effectiveness.'
+      }
+    ],
+    pitfalls: [
+      'Define constitutional functions clearly',
+      'Consider different functions separately',
+      'Use concrete legislative examples'
+    ]
+  },
+  {
+    id: 'ma217',
+    question_id: 'q217',
+    arguments_for: [
+      {
+        title: 'Exclusive constitutional powers',
+        explanation: 'Senate confirms appointments and ratifies treaties, exercising powers the House lacks entirely.'
+      },
+      {
+        title: 'Prestige and visibility',
+        explanation: 'Longer six-year terms and statewide constituencies increase Senate stature and national profile.'
+      },
+      {
+        title: 'Filibuster power',
+        explanation: 'Filibuster and unanimous consent requirements give individual senators disproportionate influence over legislation.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'House revenue control',
+        explanation: 'The House controls revenue bills and initiates impeachment, exercising significant exclusive powers.'
+      },
+      {
+        title: 'House reflects popular opinion',
+        explanation: 'The House better reflects popular opinion through more frequent elections and proportional representation.'
+      },
+      {
+        title: 'Senate procedures cause paralysis',
+        explanation: 'Filibuster and unanimous consent procedures also cause paralysis and inefficiency, limiting Senate effectiveness.'
+      }
+    ],
+    synoptic_links: [
+      'Link to bicameralism theory',
+      'Connect to filibuster reform debates',
+      'Relate to representation theories'
+    ],
+    examples: [
+      {
+        title: 'Supreme Court confirmations',
+        context: 'Senate battles over Kavanaugh and Barrett nominations demonstrated Senate\'s unique constitutional role.'
+      },
+      {
+        title: 'House impeachment power',
+        context: 'House initiated Trump impeachments, exercising its exclusive constitutional authority.'
+      }
+    ],
+    pitfalls: [
+      'Define powerful and prestigious separately',
+      'Consider different measures of power',
+      'Avoid assuming prestige equals effectiveness'
+    ]
+  },
+  {
+    id: 'ma218',
+    question_id: 'q218',
+    arguments_for: [
+      {
+        title: 'Social composition skewed',
+        explanation: 'Congress is disproportionately wealthy, white and male compared to the general population.'
+      },
+      {
+        title: 'Electoral distortions',
+        explanation: 'Gerrymandering and incumbency skew outcomes, reducing competitive elections.'
+      },
+      {
+        title: 'Interest group influence',
+        explanation: 'Lobbying prioritises elite interests over ordinary citizens\' concerns.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Descriptive representation improving',
+        explanation: 'Descriptive representation has improved over time, with increasing diversity in Congress.'
+      },
+      {
+        title: 'Regular elections provide accountability',
+        explanation: 'Regular elections provide accountability mechanisms for voters dissatisfied with representation.'
+      },
+      {
+        title: 'Constituency pressures matter',
+        explanation: 'Constituency pressures still shape member behaviour, with re-election concerns driving responsiveness.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to theories of representation',
+      'Link to electoral reform proposals',
+      'Relate to descriptive vs substantive representation'
+    ],
+    examples: [
+      {
+        title: '117th Congress diversity',
+        context: 'Most diverse Congress in history elected in 2020, showing improvement in descriptive representation.'
+      },
+      {
+        title: 'Citizens United impact',
+        context: 'Campaign finance rules advantage wealthy donors, potentially distorting representation.'
+      }
+    ],
+    pitfalls: [
+      'Define representation clearly',
+      'Distinguish descriptive from substantive',
+      'Consider multiple dimensions of representation'
+    ]
+  },
+  {
+    id: 'ma219',
+    question_id: 'q219',
+    arguments_for: [
+      {
+        title: 'Electoral advantage',
+        explanation: 'Name recognition and fundraising deter challengers, with incumbents winning over 90% of House races.'
+      },
+      {
+        title: 'Safe seats reduce responsiveness',
+        explanation: 'Safe seats reduce responsiveness to voter preferences, with little incentive to moderate positions.'
+      },
+      {
+        title: 'Elite entrenchment',
+        explanation: 'Long tenures entrench political elites, reducing political renewal and fresh perspectives.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Voters can remove incumbents',
+        explanation: 'Voters can still remove unpopular incumbents, with some losing primaries or general elections.'
+      },
+      {
+        title: 'Accountability to constituents',
+        explanation: 'Representatives remain accountable to constituents through casework and local engagement.'
+      },
+      {
+        title: 'Experience improves effectiveness',
+        explanation: 'Experience improves legislative effectiveness, with senior members better able to deliver for constituents.'
+      }
+    ],
+    synoptic_links: [
+      'Link to term limits debates',
+      'Connect to campaign finance reform',
+      'Relate to democratic accountability theory'
+    ],
+    examples: [
+      {
+        title: 'House incumbency rates',
+        context: 'Over 90% of House incumbents typically win re-election, raising concerns about competition.'
+      },
+      {
+        title: 'Primary challenges',
+        context: 'Alexandria Ocasio-Cortez defeating Joe Crowley shows incumbents can be beaten in primaries.'
+      }
+    ],
+    pitfalls: [
+      'Define democracy and how incumbency affects it',
+      'Consider whether experience has value',
+      'Use specific electoral data'
+    ]
+  },
+  {
+    id: 'ma220',
+    question_id: 'q220',
+    arguments_for: [
+      {
+        title: 'Regular elections',
+        explanation: 'Regular elections allow voters to punish failure and reward success, holding members accountable.'
+      },
+      {
+        title: 'Information available',
+        explanation: 'Voters can judge records and voting behaviour through publicly available information.'
+      },
+      {
+        title: 'Party competition clarifies',
+        explanation: 'Party competition clarifies responsibility, allowing voters to assign blame and credit.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Incumbency limits competition',
+        explanation: 'Incumbency limits genuine competition, reducing meaningful electoral choice.'
+      },
+      {
+        title: 'Low turnout and knowledge',
+        explanation: 'Low turnout and limited knowledge weaken accountability mechanisms.'
+      },
+      {
+        title: 'Partisan voting overrides performance',
+        explanation: 'Partisan voting overrides performance evaluation, with voters supporting party regardless of individual record.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to democratic theory',
+      'Link to voter behaviour research',
+      'Relate to electoral system design'
+    ],
+    examples: [
+      {
+        title: '2010 Tea Party wave',
+        context: 'Voters punished Democrats for ACA and recession, demonstrating electoral accountability.'
+      },
+      {
+        title: 'Midterm elections pattern',
+        context: 'President\'s party typically loses seats in midterms, showing voters holding ruling party accountable.'
+      }
+    ],
+    pitfalls: [
+      'Define accountability clearly',
+      'Consider information asymmetries',
+      'Distinguish retrospective from prospective voting'
+    ]
+  },
+  {
+    id: 'ma221',
+    question_id: 'q221',
+    arguments_for: [
+      {
+        title: 'Gridlock stalls legislation',
+        explanation: 'Bicameralism and filibusters stall legislation, with bills dying in committee or through procedural obstruction.'
+      },
+      {
+        title: 'Polarisation prevents compromise',
+        explanation: 'Polarisation undermines compromise, with parties unwilling to negotiate across the aisle.'
+      },
+      {
+        title: 'Policy diluted or delayed',
+        explanation: 'Policy outcomes are often diluted or delayed by the need to satisfy multiple veto points.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Deliberation prevents bad laws',
+        explanation: 'Deliberation prevents poorly designed laws, with multiple stages allowing careful consideration.'
+      },
+      {
+        title: 'Bipartisan agreements occur',
+        explanation: 'Bipartisan agreements still occur on key issues, demonstrating the process can work.'
+      },
+      {
+        title: 'Incrementalism produces stability',
+        explanation: 'Incrementalism produces stability, avoiding dramatic policy swings.'
+      }
+    ],
+    synoptic_links: [
+      'Link to filibuster reform',
+      'Connect to polarisation research',
+      'Relate to comparative legislative systems'
+    ],
+    examples: [
+      {
+        title: 'Immigration reform failure',
+        context: 'Comprehensive immigration reform has failed repeatedly despite apparent majority support.'
+      },
+      {
+        title: 'CHIPS and Science Act (2022)',
+        context: 'Major bipartisan legislation passed, showing legislative process can still produce results.'
+      }
+    ],
+    pitfalls: [
+      'Define effectiveness criteria',
+      'Consider whether slow is always bad',
+      'Use specific legislative examples'
+    ]
+  },
+  {
+    id: 'ma222',
+    question_id: 'q222',
+    arguments_for: [
+      {
+        title: 'Ideological division',
+        explanation: 'Ideological division prevents cooperation, with parties holding incompatible positions on major issues.'
+      },
+      {
+        title: 'Leadership dominates agendas',
+        explanation: 'Party leaders dominate agendas, limiting opportunities for bipartisan legislation.'
+      },
+      {
+        title: 'Fewer major bills',
+        explanation: 'Fewer major bills pass compared to earlier eras, indicating legislative dysfunction.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Party unity clarifies choices',
+        explanation: 'Party unity clarifies choices for voters, making it easier to hold parties accountable.'
+      },
+      {
+        title: 'Committees retain influence',
+        explanation: 'Committees and individual members retain influence over legislation in their areas.'
+      },
+      {
+        title: 'Crisis legislation emerges',
+        explanation: 'Significant legislation still emerges during crises when action is imperative.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to polarisation literature',
+      'Link to party government theory',
+      'Relate to comparative legislative studies'
+    ],
+    examples: [
+      {
+        title: 'CARES Act (2020)',
+        context: 'Massive COVID relief passed rapidly with bipartisan support during crisis.'
+      },
+      {
+        title: 'Build Back Better failure',
+        context: 'Partisan divisions killed major Biden legislative priority despite unified government.'
+      }
+    ],
+    pitfalls: [
+      'Define legislative role clearly',
+      'Consider whether partisanship is always negative',
+      'Use historical comparison'
+    ]
+  },
+  {
+    id: 'ma223',
+    question_id: 'q223',
+    arguments_for: [
+      {
+        title: 'Slow procedures',
+        explanation: 'Slow procedures hinder crisis management, with urgent issues delayed by legislative process.'
+      },
+      {
+        title: 'Fragmentation limits coherence',
+        explanation: 'Fragmentation limits coherent solutions, with committee jurisdictions creating patchwork approaches.'
+      },
+      {
+        title: 'Electoral concerns discourage boldness',
+        explanation: 'Electoral concerns discourage bold action on controversial issues.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Deliberation avoids overreaction',
+        explanation: 'Deliberation avoids overreaction, preventing hasty responses to complex problems.'
+      },
+      {
+        title: 'Committee expertise',
+        explanation: 'Specialised committees enhance expertise, with members developing deep knowledge of policy areas.'
+      },
+      {
+        title: 'Public pressure drives reform',
+        explanation: 'Public pressure can drive reform when issues achieve sufficient salience.'
+      }
+    ],
+    synoptic_links: [
+      'Link to crisis governance',
+      'Connect to institutional design debates',
+      'Relate to contemporary policy challenges'
+    ],
+    examples: [
+      {
+        title: 'Climate change inaction',
+        context: 'Congress has failed to pass comprehensive climate legislation despite scientific consensus.'
+      },
+      {
+        title: 'Gun control gridlock',
+        context: 'Despite mass shootings, major gun legislation remains blocked by partisan and procedural barriers.'
+      }
+    ],
+    pitfalls: [
+      'Define contemporary issues specifically',
+      'Consider whose interests are served by inaction',
+      'Avoid assuming all issues need federal action'
+    ]
+  },
+  {
+    id: 'ma224',
+    question_id: 'q224',
+    arguments_for: [
+      {
+        title: 'Investigations expose wrongdoing',
+        explanation: 'Hearings and subpoenas expose wrongdoing, bringing executive misconduct to public attention.'
+      },
+      {
+        title: 'Budgetary control',
+        explanation: 'Congress can restrict executive funding, using appropriations to constrain agency action.'
+      },
+      {
+        title: 'Impeachment deters abuse',
+        explanation: 'Impeachment deters abuse of power, providing ultimate sanction for presidential misconduct.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Oversight collapses under unified government',
+        explanation: 'Oversight collapses when Congress and presidency are controlled by the same party.'
+      },
+      {
+        title: 'Presidents bypass constraints',
+        explanation: 'Presidents often bypass constraints through executive action and signing statements.'
+      },
+      {
+        title: 'Partisanship undermines impeachment',
+        explanation: 'Partisanship undermines impeachment effectiveness, with party loyalty preventing conviction.'
+      }
+    ],
+    synoptic_links: [
+      'Link to accountability theory',
+      'Connect to oversight mechanisms',
+      'Relate to separation of powers'
+    ],
+    examples: [
+      {
+        title: 'January 6 Committee',
+        context: 'Investigation documented Trump\'s role in Capitol attack, demonstrating oversight capacity.'
+      },
+      {
+        title: 'Trump acquittals',
+        context: 'Two impeachments but no conviction showed limits of oversight when party loyalty prevails.'
+      }
+    ],
+    pitfalls: [
+      'Define effective accountability',
+      'Consider different oversight mechanisms',
+      'Use recent and historical examples'
+    ]
+  },
+  {
+    id: 'ma225',
+    question_id: 'q225',
+    arguments_for: [
+      {
+        title: 'Partisan loyalty shields presidents',
+        explanation: 'Parties shield their own presidents from investigation, with majority party protecting co-partisan executives.'
+      },
+      {
+        title: 'Executive resistance',
+        explanation: 'Presidents resist subpoenas and testimony, with claims of executive privilege delaying or blocking oversight.'
+      },
+      {
+        title: 'Media spectacle',
+        explanation: 'Oversight competes with political spectacle, with hearings becoming partisan theatre rather than genuine scrutiny.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Divided government restores scrutiny',
+        explanation: 'Divided government restores scrutiny, with opposition party having incentive to investigate.'
+      },
+      {
+        title: 'Courts enforce authority',
+        explanation: 'Courts enforce congressional authority, compelling compliance with subpoenas.'
+      },
+      {
+        title: 'Public attention amplifies impact',
+        explanation: 'Public attention can amplify oversight impact when investigations generate sustained coverage.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to polarisation effects',
+      'Link to executive privilege debates',
+      'Relate to media and politics'
+    ],
+    examples: [
+      {
+        title: 'Mueller investigation',
+        context: 'Special counsel investigation faced resistance but produced substantial findings.'
+      },
+      {
+        title: 'Trump tax returns case',
+        context: 'Years of litigation required before Congress obtained presidential tax records.'
+      }
+    ],
+    pitfalls: [
+      'Define oversight and how to measure decline',
+      'Consider different types of oversight',
+      'Use specific recent examples'
+    ]
+  },
+  {
+    id: 'ma226',
+    question_id: 'q226',
+    arguments_for: [
+      {
+        title: 'Opposition incentives',
+        explanation: 'Opposition-led Congress has motivation to investigate, with political rewards for exposing executive wrongdoing.'
+      },
+      {
+        title: 'Hearings become robust',
+        explanation: 'Hearings and checks become more robust when different parties control branches.'
+      },
+      {
+        title: 'Power more evenly distributed',
+        explanation: 'Power is more evenly distributed, with genuine inter-branch competition.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Obstruction replaces scrutiny',
+        explanation: 'Obstruction may replace genuine scrutiny, with oversight becoming partisan weapon.'
+      },
+      {
+        title: 'Gridlock limits outcomes',
+        explanation: 'Gridlock limits practical outcomes from oversight, with investigations producing reports but not reform.'
+      },
+      {
+        title: 'Accountability becomes politicised',
+        explanation: 'Accountability may become politicised, undermining legitimacy of oversight findings.'
+      }
+    ],
+    synoptic_links: [
+      'Link to divided government literature',
+      'Connect to accountability mechanisms',
+      'Relate to partisan conflict'
+    ],
+    examples: [
+      {
+        title: 'Democratic House 2019-20',
+        context: 'Democrats launched multiple investigations of Trump administration after gaining House majority.'
+      },
+      {
+        title: 'Benghazi investigations',
+        context: 'Republican investigations of Clinton showed oversight can become extended partisan exercise.'
+      }
+    ],
+    pitfalls: [
+      'Distinguish oversight from obstruction',
+      'Consider quality vs quantity of oversight',
+      'Use examples from both parties'
+    ]
+  },
+  // US Politics - The Presidency Model Answers
+  {
+    id: 'ma227',
+    question_id: 'q227',
+    arguments_for: [
+      {
+        title: 'Article II limited',
+        explanation: 'Article II provides few explicit powers and relies on congressional approval for legislation, appointments and treaties.'
+      },
+      {
+        title: 'Congress controls lawmaking',
+        explanation: 'Congress controls law-making and funding, with presidents unable to legislate independently.'
+      },
+      {
+        title: 'Judicial review constrains',
+        explanation: 'Supreme Court can block unconstitutional executive actions, providing judicial check on presidential power.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Veto power significant',
+        explanation: 'Veto power and commander-in-chief role give significant leverage, with veto override requiring two-thirds supermajority.'
+      },
+      {
+        title: 'Agenda-setting influence',
+        explanation: 'Presidents shape legislation through agenda-setting and veto threats, influencing congressional priorities.'
+      },
+      {
+        title: 'Courts avoid confrontation',
+        explanation: 'Courts tend to avoid direct confrontation with the executive, particularly on national security matters.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to constitutional design',
+      'Link to formal vs informal powers',
+      'Relate to separation of powers'
+    ],
+    examples: [
+      {
+        title: 'Veto statistics',
+        context: 'Congress rarely overrides vetoes, giving presidents effective negative legislative power.'
+      },
+      {
+        title: 'Treaty rejections',
+        context: 'Senate has rejected major treaties, demonstrating formal limits on presidential foreign policy.'
+      }
+    ],
+    pitfalls: [
+      'Distinguish formal from effective power',
+      'Consider variation across policy areas',
+      'Use specific constitutional provisions'
+    ]
+  },
+  {
+    id: 'ma228',
+    question_id: 'q228',
+    arguments_for: [
+      {
+        title: 'Executive orders proliferate',
+        explanation: 'Presidents increasingly govern unilaterally through executive orders, bypassing the legislative process.'
+      },
+      {
+        title: 'Informal powers expand',
+        explanation: 'Media access and persuasion expand influence beyond the Constitution, with the "bully pulpit" enabling public pressure.'
+      },
+      {
+        title: 'Emergency powers extended',
+        explanation: 'Crises enable expansion of executive authority, with emergency declarations providing broad powers.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Orders can be overturned',
+        explanation: 'Executive orders can be overturned by courts or Congress, and reversed by successor presidents.'
+      },
+      {
+        title: 'Informal powers context-dependent',
+        explanation: 'Informal powers depend heavily on context and popularity, varying significantly between presidents.'
+      },
+      {
+        title: 'Emergency powers temporary',
+        explanation: 'Emergency powers are temporary and contested, subject to congressional and judicial challenge.'
+      }
+    ],
+    synoptic_links: [
+      'Link to imperial presidency thesis',
+      'Connect to executive order debates',
+      'Relate to constitutional balance'
+    ],
+    examples: [
+      {
+        title: 'Trump travel ban litigation',
+        context: 'Courts initially blocked executive orders before ultimately upholding modified version.'
+      },
+      {
+        title: 'Biden reversing Trump orders',
+        context: 'New presidents routinely reverse predecessor\'s executive orders, showing their impermanence.'
+      }
+    ],
+    pitfalls: [
+      'Define what "too powerful" means',
+      'Consider historical trajectory',
+      'Balance formal and informal analysis'
+    ]
+  },
+  {
+    id: 'ma229',
+    question_id: 'q229',
+    arguments_for: [
+      {
+        title: 'Agenda-setting primacy',
+        explanation: 'Presidents define policy priorities through State of the Union, budget proposals and public addresses.'
+      },
+      {
+        title: 'EXOP coordination',
+        explanation: 'Executive Office of the President provides institutional support enhancing policy coordination and development.'
+      },
+      {
+        title: 'Party leadership',
+        explanation: 'Presidents shape party platforms and direction, with party members in Congress following presidential lead.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Congress controls outcomes',
+        explanation: 'Congress ultimately controls legislative outcomes, with bills requiring passage by both chambers.'
+      },
+      {
+        title: 'Bureaucratic resistance',
+        explanation: 'Bureaucracy and institutional resistance dilute presidential control over policy implementation.'
+      },
+      {
+        title: 'Party factions limit dominance',
+        explanation: 'Party factions limit presidential dominance, with ideological divisions preventing unified support.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to Neustadt\'s bargaining theory',
+      'Link to policy process literature',
+      'Relate to presidential-congressional relations'
+    ],
+    examples: [
+      {
+        title: 'ACA passage',
+        context: 'Obama\'s healthcare reform required extensive congressional negotiation and compromise.'
+      },
+      {
+        title: 'Build Back Better failure',
+        context: 'Biden\'s signature legislation died due to intra-party opposition, showing limits of presidential dominance.'
+      }
+    ],
+    pitfalls: [
+      'Distinguish agenda-setting from policy-making',
+      'Consider variation by policy area',
+      'Use specific legislative examples'
+    ]
+  },
+  {
+    id: 'ma230',
+    question_id: 'q230',
+    arguments_for: [
+      {
+        title: 'Power of persuasion central',
+        explanation: 'Presidential success depends on bargaining with Congress, elites and the public rather than constitutional authority alone.'
+      },
+      {
+        title: 'Electoral mandate significance',
+        explanation: 'A strong mandate enhances authority and legitimacy beyond formal powers granted by Article II.'
+      },
+      {
+        title: 'Executive orders decisive',
+        explanation: 'Executive orders allow presidents to act decisively without congressional approval, demonstrating informal power\'s significance.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Persuasion needs institutional backing',
+        explanation: 'Persuasion is ineffective without formal institutional backing; presidents need constitutional leverage.'
+      },
+      {
+        title: 'Mandates often contested',
+        explanation: 'Mandates are often narrow, contested or undermined by the Electoral College, limiting their authority.'
+      },
+      {
+        title: 'Executive orders constrained',
+        explanation: 'Executive orders are constrained by courts, Congress and successor presidents, limiting their long-term significance.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to Neustadt\'s thesis',
+      'Link to presidential leadership theory',
+      'Relate to mandate theory'
+    ],
+    examples: [
+      {
+        title: 'LBJ legislative success',
+        context: 'Johnson\'s persuasive skills and relationships enabled major legislative achievements.'
+      },
+      {
+        title: 'Trump\'s limited legislative record',
+        context: 'Despite unified government, Trump achieved limited legislation, showing persuasion has limits.'
+      }
+    ],
+    pitfalls: [
+      'Define informal powers clearly',
+      'Consider which informal powers matter most',
+      'Use comparative presidential examples'
+    ]
+  },
+  {
+    id: 'ma231',
+    question_id: 'q231',
+    arguments_for: [
+      {
+        title: 'Bypassing Congress',
+        explanation: 'Executive orders avoid legislative scrutiny, allowing presidents to make policy without democratic deliberation.'
+      },
+      {
+        title: 'Reduced transparency',
+        explanation: 'Reduced transparency weakens democratic oversight, with orders issued without public debate.'
+      },
+      {
+        title: 'Reflects institutional failure',
+        explanation: 'Overuse of executive orders reflects institutional failure to legislate, substituting presidential fiat for democratic process.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Orders within existing law',
+        explanation: 'Executive orders operate within existing law, implementing rather than making policy independently.'
+      },
+      {
+        title: 'Courts and elections maintain accountability',
+        explanation: 'Courts and elections maintain accountability, with orders subject to judicial review and electoral consequences.'
+      },
+      {
+        title: 'Enables governance during gridlock',
+        explanation: 'Executive orders enable governance during gridlock, allowing government to function when Congress cannot act.'
+      }
+    ],
+    synoptic_links: [
+      'Link to separation of powers',
+      'Connect to democratic theory',
+      'Relate to congressional dysfunction'
+    ],
+    examples: [
+      {
+        title: 'DACA',
+        context: 'Obama\'s immigration order bypassed congressional failure to pass reform, raising legitimacy questions.'
+      },
+      {
+        title: 'Trump border wall emergency',
+        context: 'Emergency declaration to fund wall without congressional appropriation tested constitutional limits.'
+      }
+    ],
+    pitfalls: [
+      'Define democracy and how orders affect it',
+      'Consider legitimate uses of executive orders',
+      'Distinguish types of executive action'
+    ]
+  },
+  {
+    id: 'ma232',
+    question_id: 'q232',
+    arguments_for: [
+      {
+        title: 'Congressional relations shaped',
+        explanation: 'Successful presidents secure legislative support through personal relationships and bargaining skills.'
+      },
+      {
+        title: 'Public backing pressures Congress',
+        explanation: 'Public backing pressures Congress to support presidential initiatives, creating electoral incentives for cooperation.'
+      },
+      {
+        title: 'Party discipline consolidated',
+        explanation: 'Persuasion consolidates party discipline, keeping co-partisans aligned with presidential priorities.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Polarisation limits persuasion',
+        explanation: 'Polarisation limits persuasion, with opposition party members having no incentive to cooperate.'
+      },
+      {
+        title: 'Media fragmentation weakens influence',
+        explanation: 'Media fragmentation weakens presidential influence, with citizens consuming partisan news.'
+      },
+      {
+        title: 'Ideological divisions persist',
+        explanation: 'Ideological divisions persist within parties, limiting presidential ability to persuade even co-partisans.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to Neustadt\'s persuasion thesis',
+      'Link to public opinion and media',
+      'Relate to polarisation effects'
+    ],
+    examples: [
+      {
+        title: 'Reagan\'s communication skills',
+        context: 'The "Great Communicator" used rhetoric and personal appeal to build public support for his agenda.'
+      },
+      {
+        title: 'Obama\'s limited persuasion',
+        context: 'Despite strong communication skills, Obama faced persistent Republican opposition.'
+      }
+    ],
+    pitfalls: [
+      'Define persuasion and its mechanisms',
+      'Consider structural vs personal factors',
+      'Use comparative presidential examples'
+    ]
+  },
+  {
+    id: 'ma233',
+    question_id: 'q233',
+    arguments_for: [
+      {
+        title: 'Democratic legitimacy',
+        explanation: 'Electoral victory provides democratic justification for presidential agenda and leadership.'
+      },
+      {
+        title: 'Policy implementation enabled',
+        explanation: 'Strong mandates enable agenda implementation, with clear popular endorsement supporting policy change.'
+      },
+      {
+        title: 'Early momentum',
+        explanation: 'Early-term mandates boost momentum, with honeymoon period providing window for action.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Electoral College distortions',
+        explanation: 'Electoral College distortions weaken mandates, with presidents sometimes winning without popular vote majority.'
+      },
+      {
+        title: 'Opposition resists',
+        explanation: 'Opposition institutions resist change regardless of mandate, with Congress often blocking presidential priorities.'
+      },
+      {
+        title: 'Authority fades',
+        explanation: 'Authority fades over time, with mandate effect dissipating after initial honeymoon period.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to mandate theory',
+      'Link to Electoral College debates',
+      'Relate to presidential-congressional relations'
+    ],
+    examples: [
+      {
+        title: 'FDR 1932',
+        context: 'Landslide victory provided clear mandate for New Deal transformation.'
+      },
+      {
+        title: 'Trump 2016',
+        context: 'Electoral College victory without popular vote plurality limited mandate claims.'
+      }
+    ],
+    pitfalls: [
+      'Define what constitutes a mandate',
+      'Consider how mandates are claimed vs earned',
+      'Use historical comparison'
+    ]
+  },
+  {
+    id: 'ma234',
+    question_id: 'q234',
+    arguments_for: [
+      {
+        title: 'Legislative power constrains',
+        explanation: 'Congress controls law-making and budgets, with power of the purse providing fundamental constraint.'
+      },
+      {
+        title: 'Oversight limits abuse',
+        explanation: 'Hearings and investigations limit abuse, exposing executive misconduct to public scrutiny.'
+      },
+      {
+        title: 'Impeachment threat',
+        explanation: 'Threat of impeachment constrains presidential behaviour, providing ultimate sanction for misconduct.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Presidents bypass legislation',
+        explanation: 'Presidents can veto legislation and bypass Congress through executive action.'
+      },
+      {
+        title: 'Partisanship undermines scrutiny',
+        explanation: 'Partisanship undermines scrutiny, with co-partisan Congress protecting presidents from investigation.'
+      },
+      {
+        title: 'Impeachment politically biased',
+        explanation: 'Political bias limits impeachment effectiveness, with party loyalty preventing conviction.'
+      }
+    ],
+    synoptic_links: [
+      'Link to separation of powers',
+      'Connect to oversight mechanisms',
+      'Relate to impeachment debates'
+    ],
+    examples: [
+      {
+        title: 'Government shutdowns',
+        context: 'Congressional funding control has forced government shutdowns in budget disputes.'
+      },
+      {
+        title: 'Trump impeachment acquittals',
+        context: 'Partisan voting in Senate prevented conviction despite House impeachment.'
+      }
+    ],
+    pitfalls: [
+      'Define effective constraint',
+      'Consider variation by issue area',
+      'Use specific constitutional mechanisms'
+    ]
+  },
+  {
+    id: 'ma235',
+    question_id: 'q235',
+    arguments_for: [
+      {
+        title: 'Judicial review blocks action',
+        explanation: 'Courts block unconstitutional executive action, striking down orders and policies exceeding presidential authority.'
+      },
+      {
+        title: 'Appointment shapes courts',
+        explanation: 'Presidents shape courts through appointments to support their agendas, but this requires Senate confirmation.'
+      },
+      {
+        title: 'Courts restrain overreach',
+        explanation: 'Courts avoid executive overreach, maintaining constitutional boundaries.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Selective compliance',
+        explanation: 'Presidents often comply selectively with unfavourable rulings, delaying or circumventing judicial decisions.'
+      },
+      {
+        title: 'Justices act independently',
+        explanation: 'Justices act independently once appointed, sometimes ruling against the president who appointed them.'
+      },
+      {
+        title: 'Judicial restraint weakens constraints',
+        explanation: 'Judicial restraint weakens constraints, with courts deferring to executive on many issues.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to judicial review',
+      'Link to Supreme Court appointments',
+      'Relate to separation of powers'
+    ],
+    examples: [
+      {
+        title: 'Trump travel ban litigation',
+        context: 'Courts initially blocked travel ban before Supreme Court upheld modified version.'
+      },
+      {
+        title: 'Trump v United States (2024)',
+        context: 'Court granted broad presidential immunity, limiting judicial constraints on executive.'
+      }
+    ],
+    pitfalls: [
+      'Distinguish types of judicial constraint',
+      'Consider national security exceptions',
+      'Use specific case examples'
+    ]
+  },
+  {
+    id: 'ma236',
+    question_id: 'q236',
+    arguments_for: [
+      {
+        title: 'Legislative gridlock',
+        explanation: 'Opposition Congress blocks presidential agenda, preventing passage of major initiatives.'
+      },
+      {
+        title: 'Increased scrutiny',
+        explanation: 'Increased scrutiny limits effectiveness, with opposition-led investigations and oversight.'
+      },
+      {
+        title: 'Encourages unilateralism',
+        explanation: 'Divided government encourages unilateralism, pushing presidents toward executive action.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Presidents adapt',
+        explanation: 'Presidents adapt through informal powers, finding ways to advance agenda despite opposition.'
+      },
+      {
+        title: 'Scrutiny can strengthen legitimacy',
+        explanation: 'Scrutiny can strengthen legitimacy when presidents successfully defend actions.'
+      },
+      {
+        title: 'Constraints remain',
+        explanation: 'Courts and Congress restrict overreach even as presidents turn to unilateral action.'
+      }
+    ],
+    synoptic_links: [
+      'Link to divided government literature',
+      'Connect to executive action expansion',
+      'Relate to presidential strategy'
+    ],
+    examples: [
+      {
+        title: 'Obama 2011-16',
+        context: 'Republican Congress blocked major Obama initiatives, forcing reliance on executive action.'
+      },
+      {
+        title: 'Clinton triangulation',
+        context: 'Clinton adapted to Republican Congress through centrist positioning and compromise.'
+      }
+    ],
+    pitfalls: [
+      'Define weakness clearly',
+      'Consider adaptation strategies',
+      'Compare divided vs unified government'
+    ]
+  },
+  {
+    id: 'ma237',
+    question_id: 'q237',
+    arguments_for: [
+      {
+        title: 'Lame-duck effect',
+        explanation: 'Authority diminishes toward end of term, with declining leverage as departure approaches.'
+      },
+      {
+        title: 'Scandals and fatigue',
+        explanation: 'Controversies weaken influence, with accumulated mistakes and scandals reducing effectiveness.'
+      },
+      {
+        title: 'Institutional resistance',
+        explanation: 'Congress and courts reassert control as presidency weakens, challenging executive initiatives.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Second terms enable boldness',
+        explanation: 'Second terms allow bold action without re-election concerns, freeing presidents to pursue legacy.'
+      },
+      {
+        title: 'Strong leadership survives',
+        explanation: 'Strong leadership can survive scandal, with personal qualities enabling recovery.'
+      },
+      {
+        title: 'Crises revive power',
+        explanation: 'Crises can revive power at any point in presidency, creating rally effects.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to presidential cycle theory',
+      'Link to lame-duck analysis',
+      'Relate to second-term challenges'
+    ],
+    examples: [
+      {
+        title: 'Bush second term',
+        context: 'Iraq War, Katrina and financial crisis severely weakened Bush\'s final years.'
+      },
+      {
+        title: 'Obama late achievements',
+        context: 'Paris Agreement and Cuba normalisation showed late-term action remains possible.'
+      }
+    ],
+    pitfalls: [
+      'Consider variation between presidents',
+      'Distinguish cyclical from structural decline',
+      'Use specific presidential examples'
+    ]
+  },
+  {
+    id: 'ma238',
+    question_id: 'q238',
+    arguments_for: [
+      {
+        title: 'Foreign policy dominance',
+        explanation: 'Presidents act decisively abroad as commander-in-chief, deploying forces without congressional declaration.'
+      },
+      {
+        title: 'Domestic authority expanded',
+        explanation: 'Executive orders expand domestic reach, with presidents making significant policy without legislation.'
+      },
+      {
+        title: 'Accountability limited',
+        explanation: 'Power often escapes effective oversight, with executive privilege and national security limiting transparency.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Congress retains war powers',
+        explanation: 'Congress retains war and funding powers, with the power of the purse limiting military adventures.'
+      },
+      {
+        title: 'Courts and states resist',
+        explanation: 'Courts and states resist expansion, blocking executive overreach through litigation and non-cooperation.'
+      },
+      {
+        title: 'Elections constrain',
+        explanation: 'Elections and institutions constrain behaviour, with electoral accountability limiting imperial tendencies.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to Schlesinger\'s imperial presidency',
+      'Link to War Powers Resolution',
+      'Relate to executive power debates'
+    ],
+    examples: [
+      {
+        title: 'Vietnam and Nixon',
+        context: 'Schlesinger developed imperial presidency thesis in response to Vietnam and Watergate abuses.'
+      },
+      {
+        title: 'Post-9/11 expansion',
+        context: 'War on Terror enabled significant expansion of executive authority in national security.'
+      }
+    ],
+    pitfalls: [
+      'Define imperial presidency clearly',
+      'Consider historical variation',
+      'Balance domestic and foreign policy analysis'
+    ]
+  },
+  {
+    id: 'ma239',
+    question_id: 'q239',
+    arguments_for: [
+      {
+        title: 'Congressional constraint',
+        explanation: 'Polarisation and divided government restrict presidential legislative success, supporting the imperilled presidency thesis.'
+      },
+      {
+        title: 'Judicial limits',
+        explanation: 'Judicial review and legal challenges constrain executive overreach, blocking presidential initiatives.'
+      },
+      {
+        title: 'State resistance',
+        explanation: 'States challenge presidential authority through courts and policy divergence, weakening executive dominance.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Executive action bypasses',
+        explanation: 'Presidents increasingly bypass Congress through executive action, reinforcing imperial characteristics.'
+      },
+      {
+        title: 'Courts often defer',
+        explanation: 'Courts often defer to the executive, particularly in national security and foreign policy.'
+      },
+      {
+        title: 'Federal supremacy prevails',
+        explanation: 'Federal supremacy and national crises allow presidents to override state resistance.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to imperial vs imperilled debate',
+      'Link to divided government effects',
+      'Relate to contemporary presidency analysis'
+    ],
+    examples: [
+      {
+        title: 'Obama gridlock',
+        context: 'Republican obstruction limited Obama\'s legislative achievements, supporting imperilled thesis.'
+      },
+      {
+        title: 'Trump executive actions',
+        context: 'Extensive use of executive orders and emergency powers showed imperial tendencies persist.'
+      }
+    ],
+    pitfalls: [
+      'Define both imperial and imperilled',
+      'Consider whether both can coexist',
+      'Use recent presidential examples'
+    ]
+  },
+  {
+    id: 'ma240',
+    question_id: 'q240',
+    arguments_for: [
+      {
+        title: 'Significant reforms passed',
+        explanation: 'Significant reforms passed under recent presidents including ACA, tax reform, and infrastructure legislation.'
+      },
+      {
+        title: 'Crisis leadership',
+        explanation: 'Presidents lead during emergencies, providing national direction during 9/11, financial crisis and pandemic.'
+      },
+      {
+        title: 'Successful negotiation',
+        explanation: 'Successful negotiation with Congress has produced major legislation when presidents commit resources.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Initiatives stalled or reversed',
+        explanation: 'Many initiatives have stalled or been reversed, with successor presidents undoing predecessor achievements.'
+      },
+      {
+        title: 'Crises expose failures',
+        explanation: 'Crises expose leadership failures, from Iraq to Katrina to pandemic response.'
+      },
+      {
+        title: 'Persistent gridlock',
+        explanation: 'Persistent gridlock undermines effectiveness, with major problems remaining unaddressed.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to presidential evaluation literature',
+      'Link to crisis leadership',
+      'Relate to legislative success metrics'
+    ],
+    examples: [
+      {
+        title: 'Clinton economic record',
+        context: 'Budget surplus and economic growth demonstrated effective economic management.'
+      },
+      {
+        title: 'Bush Iraq War',
+        context: 'Iraq War became defining failure, overshadowing other achievements.'
+      }
+    ],
+    pitfalls: [
+      'Define effective leadership',
+      'Consider multiple presidents fairly',
+      'Balance achievements and failures'
+    ]
+  },
+  {
+    id: 'ma241',
+    question_id: 'q241',
+    arguments_for: [
+      {
+        title: 'Elections infrequent',
+        explanation: 'Elections are infrequent and indirect through Electoral College, limiting direct popular accountability.'
+      },
+      {
+        title: 'Partisan oversight weak',
+        explanation: 'Partisan loyalty weakens congressional checks, with co-partisan Congress protecting presidents.'
+      },
+      {
+        title: 'Courts defer',
+        explanation: 'Courts defer to executive authority on many issues, particularly national security.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Voters can remove presidents',
+        explanation: 'Voters can remove presidents, with elections providing ultimate accountability mechanism.'
+      },
+      {
+        title: 'Investigations persist',
+        explanation: 'Investigations and hearings persist, maintaining scrutiny even under unified government.'
+      },
+      {
+        title: 'Legal challenges constrain',
+        explanation: 'Legal challenges constrain action, with courts reviewing executive decisions.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to accountability theory',
+      'Link to separation of powers',
+      'Relate to democratic theory'
+    ],
+    examples: [
+      {
+        title: 'Nixon resignation',
+        context: 'Watergate showed accountability mechanisms can work when misconduct is severe enough.'
+      },
+      {
+        title: 'Trump acquittals',
+        context: 'Two impeachments without conviction raised questions about accountability effectiveness.'
+      }
+    ],
+    pitfalls: [
+      'Define accountability mechanisms',
+      'Consider multiple types of accountability',
+      'Use specific examples'
+    ]
+  },
+  {
+    id: 'ma242',
+    question_id: 'q242',
+    arguments_for: [
+      {
+        title: 'Commander-in-chief role',
+        explanation: 'Presidents control military deployment as commander-in-chief, directing forces without congressional declaration.'
+      },
+      {
+        title: 'Diplomatic leadership',
+        explanation: 'Presidents lead negotiations and treaty-making, representing the nation in international affairs.'
+      },
+      {
+        title: 'Speed and secrecy advantages',
+        explanation: 'Executive action suits foreign policy needs, with speed and secrecy enabling effective diplomacy and military action.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Congress controls funding',
+        explanation: 'Congress controls funding and war declarations, with power of the purse limiting military operations.'
+      },
+      {
+        title: 'Senate ratification limits',
+        explanation: 'Senate ratification limits treaty dominance, with two-thirds requirement for formal agreements.'
+      },
+      {
+        title: 'Oversight exists',
+        explanation: 'Oversight exists through committees and courts, with congressional intelligence oversight and judicial review.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to two presidencies thesis',
+      'Link to War Powers Resolution',
+      'Relate to foreign policy process'
+    ],
+    examples: [
+      {
+        title: 'Obama intervention in Libya',
+        context: 'Military action without congressional authorisation demonstrated executive foreign policy dominance.'
+      },
+      {
+        title: 'Paris Agreement withdrawal',
+        context: 'Trump withdrawal from agreement showed presidential foreign policy autonomy.'
+      }
+    ],
+    pitfalls: [
+      'Define dominance clearly',
+      'Consider different aspects of foreign policy',
+      'Use specific policy examples'
+    ]
+  },
+  {
+    id: 'ma243',
+    question_id: 'q243',
+    arguments_for: [
+      {
+        title: 'Constitutional authority broader',
+        explanation: 'Foreign policy powers are broader and less constrained, with commander-in-chief and diplomatic recognition authority.'
+      },
+      {
+        title: 'Congress defers on foreign policy',
+        explanation: 'Congress is less willing to challenge foreign actions, with rally effects and bipartisanship norms.'
+      },
+      {
+        title: 'Courts rarely intervene',
+        explanation: 'Courts rarely intervene in foreign affairs, treating foreign policy as largely executive domain.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Domestic powers through legislation',
+        explanation: 'Domestic powers are reinforced through legislation and administration, with agencies implementing presidential priorities.'
+      },
+      {
+        title: 'Budgetary and war powers apply',
+        explanation: 'Budgetary and war powers still apply to foreign policy, limiting presidential autonomy.'
+      },
+      {
+        title: 'Domestic judicial deference',
+        explanation: 'Domestic policy is also subject to judicial deference in many areas.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to Wildavsky\'s two presidencies',
+      'Link to domestic-foreign policy comparison',
+      'Relate to presidential power theories'
+    ],
+    examples: [
+      {
+        title: 'Bush domestic vs foreign',
+        context: 'Bush achieved significant foreign policy action while domestic initiatives like Social Security reform failed.'
+      },
+      {
+        title: 'Trump trade policy',
+        context: 'Extensive tariff authority showed presidential power in trade, straddling domestic and foreign.'
+      }
+    ],
+    pitfalls: [
+      'Define power in both domains',
+      'Consider variation within each domain',
+      'Test the two presidencies thesis'
+    ]
+  },
+  // US Politics - Supreme Court and Civil Rights Model Answers
+  {
+    id: 'ma244',
+    question_id: 'q244',
+    arguments_for: [
+      {
+        title: 'Judicial review supreme',
+        explanation: 'The Court can strike down legislation and executive action, overriding decisions of elected branches.'
+      },
+      {
+        title: 'Independence and tenure',
+        explanation: 'Life tenure insulates justices from political pressure, enhancing authority and enabling counter-majoritarian rulings.'
+      },
+      {
+        title: 'Policy impact lasting',
+        explanation: 'Landmark rulings shape long-term public policy, with constitutional interpretation affecting society for generations.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Depends on enforcement',
+        explanation: 'The Court relies on the other branches to enforce its rulings, lacking independent implementation capacity.'
+      },
+      {
+        title: 'Appointments politicised',
+        explanation: 'Appointment and confirmation processes politicise the Court, with partisan battles over nominations.'
+      },
+      {
+        title: 'Decisions can be circumvented',
+        explanation: 'Congress and states can circumvent or reverse decisions over time through legislation and constitutional amendment.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to separation of powers',
+      'Link to judicial review debate',
+      'Relate to democratic theory'
+    ],
+    examples: [
+      {
+        title: 'Brown v Board implementation',
+        context: 'Desegregation required executive enforcement and took decades to implement, showing Court\'s limits.'
+      },
+      {
+        title: 'Dobbs v Jackson (2022)',
+        context: 'Overturning Roe demonstrated Court\'s power to reshape fundamental rights.'
+      }
+    ],
+    pitfalls: [
+      'Define power clearly',
+      'Consider different types of power',
+      'Compare systematically with other branches'
+    ]
+  },
+  {
+    id: 'ma245',
+    question_id: 'q245',
+    arguments_for: [
+      {
+        title: 'Appointment battles ideological',
+        explanation: 'Ideological battles over nominations politicise the Court, with confirmation hearings becoming partisan spectacles.'
+      },
+      {
+        title: 'Voting patterns partisan',
+        explanation: 'Ideological splits increasingly align with party affiliations, with predictable voting along conservative-liberal lines.'
+      },
+      {
+        title: 'Public trust declining',
+        explanation: 'Declining trust undermines judicial legitimacy, with Americans viewing Court as political institution.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Political involvement intended',
+        explanation: 'The Constitution intended political involvement in appointments, with presidential nomination and Senate confirmation.'
+      },
+      {
+        title: 'Cross-ideological voting',
+        explanation: 'Justices frequently vote across ideological lines, with unexpected coalitions on many cases.'
+      },
+      {
+        title: 'Retains respect',
+        explanation: 'The Court retains respect as a neutral arbiter compared to other institutions.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to judicial independence',
+      'Link to legitimacy theory',
+      'Relate to polarisation effects'
+    ],
+    examples: [
+      {
+        title: 'Kavanaugh and Barrett confirmations',
+        context: 'Contentious partisan confirmations highlighted politicisation of appointment process.'
+      },
+      {
+        title: 'Chief Justice Roberts',
+        context: 'Roberts\' swing votes on ACA and other issues show judicial independence possible.'
+      }
+    ],
+    pitfalls: [
+      'Define political clearly',
+      'Distinguish appointment politics from judicial politics',
+      'Consider historical comparison'
+    ]
+  },
+  {
+    id: 'ma246',
+    question_id: 'q246',
+    arguments_for: [
+      {
+        title: 'Minority rights protected',
+        explanation: 'Courts protect minority rights from majoritarian tyranny, ensuring constitutional protections for vulnerable groups.'
+      },
+      {
+        title: 'Rule of law upheld',
+        explanation: 'Judicial review upholds the rule of law, ensuring government acts within constitutional limits.'
+      },
+      {
+        title: 'Checks abuse',
+        explanation: 'Courts check abuse of power by elected officials, preventing tyranny.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Unelected override democracy',
+        explanation: 'Unelected judges override democratic decisions, potentially frustrating popular will.'
+      },
+      {
+        title: 'Undermines sovereignty',
+        explanation: 'Excessive judicial intervention undermines popular sovereignty and legislative authority.'
+      },
+      {
+        title: 'Limited accountability',
+        explanation: 'Limited accountability of life-tenured judges weakens democratic legitimacy of judicial review.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to counter-majoritarian difficulty',
+      'Link to democratic theory',
+      'Relate to constitutional supremacy'
+    ],
+    examples: [
+      {
+        title: 'Brown v Board of Education',
+        context: 'Court protected minority rights against majoritarian segregation, demonstrating democratic value of review.'
+      },
+      {
+        title: 'Citizens United',
+        context: 'Striking down campaign finance law raised questions about judicial override of democratic legislation.'
+      }
+    ],
+    pitfalls: [
+      'Define democracy clearly',
+      'Consider different democratic values',
+      'Balance majority rule and minority rights'
+    ]
+  },
+  {
+    id: 'ma247',
+    question_id: 'q247',
+    arguments_for: [
+      {
+        title: 'Policy-making role expanded',
+        explanation: 'The Court increasingly shapes social and political outcomes through broad constitutional interpretation.'
+      },
+      {
+        title: 'Nationwide consequences',
+        explanation: 'Broad judgments have nationwide consequences, affecting policy in all fifty states simultaneously.'
+      },
+      {
+        title: 'Lack of direct checks',
+        explanation: 'Lack of direct checks enables judicial dominance, with no easy way to override constitutional interpretations.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Interprets not creates',
+        explanation: 'Decisions interpret law rather than create it, applying constitutional text to specific cases.'
+      },
+      {
+        title: 'Often narrow rulings',
+        explanation: 'Courts often issue narrow, case-specific rulings, avoiding broad pronouncements.'
+      },
+      {
+        title: 'Legislative responses',
+        explanation: 'Congress and states limit judicial impact through responsive legislation and state-level action.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to judicial activism debate',
+      'Link to separation of powers',
+      'Relate to constitutional interpretation'
+    ],
+    examples: [
+      {
+        title: 'Roe v Wade',
+        context: 'Created national abortion rights framework, demonstrating extensive policy impact.'
+      },
+      {
+        title: 'Shelby County v Holder',
+        context: 'Gutting Voting Rights Act preclearance showed Court\'s power over legislative achievements.'
+      }
+    ],
+    pitfalls: [
+      'Define imperial judiciary',
+      'Consider what distinguishes legitimate review',
+      'Use specific case examples'
+    ]
+  },
+  {
+    id: 'ma248',
+    question_id: 'q248',
+    arguments_for: [
+      {
+        title: 'Minority protection',
+        explanation: 'The Court safeguards groups vulnerable to majoritarian abuse through constitutional interpretation.'
+      },
+      {
+        title: 'National standards established',
+        explanation: 'Judicial rulings establish binding national standards, ensuring minimum rights across all states.'
+      },
+      {
+        title: 'Rights expanded over time',
+        explanation: 'Rights have expanded over time through interpretation, with evolving understanding of constitutional protections.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Protection inconsistent',
+        explanation: 'Protection is inconsistent and dependent on Court composition, with rights expanding and contracting.'
+      },
+      {
+        title: 'Enforcement dependent',
+        explanation: 'Enforcement depends on executive and state compliance, with rights remaining theoretical without implementation.'
+      },
+      {
+        title: 'Progress reversible',
+        explanation: 'Progress can be reversed by later rulings, as demonstrated by Dobbs overturning Roe.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to civil rights history',
+      'Link to judicial role in rights protection',
+      'Relate to federalism and rights'
+    ],
+    examples: [
+      {
+        title: 'Obergefell v Hodges',
+        context: 'Established marriage equality nationwide, demonstrating effective rights protection.'
+      },
+      {
+        title: 'Dobbs v Jackson',
+        context: 'Overturning abortion rights showed protection can be reversed.'
+      }
+    ],
+    pitfalls: [
+      'Define effective protection',
+      'Consider different civil rights',
+      'Balance progress and reversals'
+    ]
+  },
+  {
+    id: 'ma249',
+    question_id: 'q249',
+    arguments_for: [
+      {
+        title: 'State variation',
+        explanation: 'State-level variation creates unequal rights protection, with fundamental rights depending on residence.'
+      },
+      {
+        title: 'Access to justice unequal',
+        explanation: 'Socioeconomic inequality limits ability to defend rights, with quality legal representation depending on wealth.'
+      },
+      {
+        title: 'Judicial discretion varies',
+        explanation: 'Outcomes depend on judicial interpretation, with different courts applying rights differently.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Federal minimum standards',
+        explanation: 'Federal courts ensure minimum national standards, with constitutional floor applying everywhere.'
+      },
+      {
+        title: 'Legal aid reduces disparity',
+        explanation: 'Legal aid and public interest litigation reduce disparity in access to justice.'
+      },
+      {
+        title: 'Precedent promotes consistency',
+        explanation: 'Precedent and stare decisis promote consistency in rights interpretation.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to federalism and rights',
+      'Link to access to justice',
+      'Relate to equality and citizenship'
+    ],
+    examples: [
+      {
+        title: 'Death penalty variation',
+        context: 'Some states have abolished capital punishment while others retain it, creating geographic inequality in ultimate right.'
+      },
+      {
+        title: 'Post-Dobbs abortion access',
+        context: 'Dramatic variation in abortion access depending on state of residence.'
+      }
+    ],
+    pitfalls: [
+      'Define which rights and what counts as uneven',
+      'Consider whether variation is acceptable',
+      'Use specific rights examples'
+    ]
+  },
+  {
+    id: 'ma250',
+    question_id: 'q250',
+    arguments_for: [
+      {
+        title: 'National security deference',
+        explanation: 'Courts defer to executive authority during crises, allowing restrictions on civil liberties in name of security.'
+      },
+      {
+        title: 'Freedom restricted for safety',
+        explanation: 'Civil liberties are restricted in the name of public safety, with security concerns trumping rights.'
+      },
+      {
+        title: 'Some liberties inadequately protected',
+        explanation: 'Some liberties remain inadequately protected despite constitutional guarantees.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Judicial intervention continues',
+        explanation: 'Judicial intervention still limits excessive state power, with courts blocking some overreach.'
+      },
+      {
+        title: 'Balancing constitutionally justified',
+        explanation: 'Balancing liberty and security is constitutionally justified under reasonable interpretation.'
+      },
+      {
+        title: 'Overall expansion of freedoms',
+        explanation: 'Overall trajectory shows gradual expansion of freedoms over American history.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to national security and rights',
+      'Link to civil liberties history',
+      'Relate to freedom vs security debate'
+    ],
+    examples: [
+      {
+        title: 'Post-9/11 surveillance',
+        context: 'NSA surveillance programs operated with limited judicial oversight, compromising privacy.'
+      },
+      {
+        title: 'Boumediene v Bush',
+        context: 'Court extended habeas corpus to Guantanamo, demonstrating some protection even in security context.'
+      }
+    ],
+    pitfalls: [
+      'Define civil liberties clearly',
+      'Distinguish civil liberties from civil rights',
+      'Consider different historical periods'
+    ]
+  },
+  {
+    id: 'ma251',
+    question_id: 'q251',
+    arguments_for: [
+      {
+        title: 'Limited structural impact',
+        explanation: 'Policies have had limited impact on structural inequality, with persistent gaps in outcomes.'
+      },
+      {
+        title: 'Legal uncertainty',
+        explanation: 'Court challenges undermine effectiveness, with constant litigation creating uncertainty.'
+      },
+      {
+        title: 'Social division',
+        explanation: 'Policies fuel division and backlash, potentially undermining support for equality goals.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Improved representation',
+        explanation: 'Affirmative action improves representation and opportunity in education and employment.'
+      },
+      {
+        title: 'Democratic scrutiny',
+        explanation: 'Legal debate reflects democratic scrutiny of policy effectiveness and fairness.'
+      },
+      {
+        title: 'Proactive measures necessary',
+        explanation: 'Addressing inequality requires proactive measures beyond formal equal treatment.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to civil rights policy',
+      'Link to equality debates',
+      'Relate to diversity and inclusion'
+    ],
+    examples: [
+      {
+        title: 'University admissions diversity',
+        context: 'Race-conscious admissions increased minority representation at elite institutions.'
+      },
+      {
+        title: 'Students for Fair Admissions (2023)',
+        context: 'Court struck down race-conscious admissions, ending affirmative action in higher education.'
+      }
+    ],
+    pitfalls: [
+      'Define effectiveness criteria',
+      'Consider different types of affirmative action',
+      'Balance empirical and normative arguments'
+    ]
+  },
+  {
+    id: 'ma252',
+    question_id: 'q252',
+    arguments_for: [
+      {
+        title: 'Formal masks substantive',
+        explanation: 'Formal legal equality masks substantive inequality, with persistent disparities in outcomes.'
+      },
+      {
+        title: 'Judicial decisions insufficient',
+        explanation: 'Judicial decisions have failed to eliminate disparities in wealth, health, education and criminal justice.'
+      },
+      {
+        title: 'Structural barriers persist',
+        explanation: 'Economic and social barriers persist despite legal protections, maintaining racial hierarchy.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Legal protection established',
+        explanation: 'Anti-discrimination laws provide legal protection, prohibiting explicit racial discrimination.'
+      },
+      {
+        title: 'Courts cannot solve alone',
+        explanation: 'Courts cannot alone solve societal inequality, which requires broader social and economic change.'
+      },
+      {
+        title: 'Progress through politics',
+        explanation: 'Political participation and reform offer progress, with democratic change addressing inequality.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to civil rights movement',
+      'Link to structural racism debates',
+      'Relate to equality theory'
+    ],
+    examples: [
+      {
+        title: 'Wealth gap statistics',
+        context: 'Median Black family wealth remains fraction of white family wealth, showing persistent inequality.'
+      },
+      {
+        title: 'Black Lives Matter movement',
+        context: 'Mass protests highlighted continuing racial injustice in policing and criminal justice.'
+      }
+    ],
+    pitfalls: [
+      'Define racial equality',
+      'Consider multiple dimensions of equality',
+      'Balance progress and remaining challenges'
+    ]
+  },
+  // US Politics - Democracy and Participation Model Answers
+  {
+    id: 'ma253',
+    question_id: 'q253',
+    arguments_for: [
+      {
+        title: 'Regular elections and suffrage',
+        explanation: 'Regular elections and universal suffrage support democratic legitimacy, with citizens choosing representatives at multiple levels.'
+      },
+      {
+        title: 'Competitive elections',
+        explanation: 'Competitive elections encourage engagement, with parties and candidates seeking voter support.'
+      },
+      {
+        title: 'Formal equality',
+        explanation: 'Each citizen formally has one vote, providing basic political equality.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Electoral distortions',
+        explanation: 'Winner-takes-all and district-based systems distort representation, with seats not matching vote shares.'
+      },
+      {
+        title: 'Low turnout',
+        explanation: 'Low turnout undermines democratic claims, with many eligible voters not participating.'
+      },
+      {
+        title: 'Unequal influence',
+        explanation: 'Wealth and geography skew political influence, with money and location affecting voice.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to democratic theory',
+      'Link to electoral system comparisons',
+      'Relate to participation debates'
+    ],
+    examples: [
+      {
+        title: '2020 election turnout',
+        context: '66% turnout was highest in century but still left third of eligible voters not participating.'
+      },
+      {
+        title: 'Gerrymandering effects',
+        context: 'Partisan redistricting creates safe seats and reduces competitive elections.'
+      }
+    ],
+    pitfalls: [
+      'Define democracy clearly',
+      'Consider different measures of democratic quality',
+      'Compare with other democracies'
+    ]
+  },
+  {
+    id: 'ma254',
+    question_id: 'q254',
+    arguments_for: [
+      {
+        title: 'Popular vote losers win',
+        explanation: 'Presidents can win without a popular vote majority, as in 2000 and 2016, undermining democratic mandate.'
+      },
+      {
+        title: 'Swing state focus',
+        explanation: 'Swing states receive disproportionate attention, with campaigns ignoring safe states.'
+      },
+      {
+        title: 'Outdated system',
+        explanation: 'The Electoral College is an 18th-century mechanism no longer suited to modern democracy.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Federal principles',
+        explanation: 'The system reflects federal principles, with states as units of election appropriate to federal union.'
+      },
+      {
+        title: 'Small state relevance',
+        explanation: 'Smaller states gain relevance they would otherwise lack, preventing domination by populous states.'
+      },
+      {
+        title: 'Clear outcomes',
+        explanation: 'It provides clear outcomes and legitimacy, typically producing decisive winners.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to federalism',
+      'Link to electoral reform debates',
+      'Relate to democratic theory'
+    ],
+    examples: [
+      {
+        title: '2016 election',
+        context: 'Trump won Electoral College while losing popular vote by nearly 3 million, raising legitimacy questions.'
+      },
+      {
+        title: 'National Popular Vote Interstate Compact',
+        context: 'State-level effort to effectively bypass Electoral College without constitutional amendment.'
+      }
+    ],
+    pitfalls: [
+      'Define democracy and how Electoral College affects it',
+      'Consider original purpose vs current effects',
+      'Address federalism arguments seriously'
+    ]
+  },
+  {
+    id: 'ma255',
+    question_id: 'q255',
+    arguments_for: [
+      {
+        title: 'Electoral College distorts',
+        explanation: 'The Electoral College distorts democratic outcomes, creating possibility of popular vote losers winning.'
+      },
+      {
+        title: 'Money distorts competition',
+        explanation: 'Campaign finance allows wealth to distort electoral competition and candidate selection.'
+      },
+      {
+        title: 'Voter access barriers',
+        explanation: 'Registration barriers and voting restrictions suppress participation.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Federalism would be undermined',
+        explanation: 'Electoral College reform would undermine federalism and small state representation.'
+      },
+      {
+        title: 'Free expression argument',
+        explanation: 'Campaign spending reflects free political expression protected by First Amendment.'
+      },
+      {
+        title: 'State regulatory authority',
+        explanation: 'States have legitimate regulatory authority over election administration.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to electoral reform proposals',
+      'Link to campaign finance debates',
+      'Relate to voting rights'
+    ],
+    examples: [
+      {
+        title: 'Primary system critiques',
+        context: 'Long primary season and early state dominance raise questions about nomination process.'
+      },
+      {
+        title: 'Citizens United effects',
+        context: 'Super PAC spending has transformed campaign finance landscape.'
+      }
+    ],
+    pitfalls: [
+      'Consider multiple aspects of election process',
+      'Address practical obstacles to reform',
+      'Balance different reform priorities'
+    ]
+  },
+  {
+    id: 'ma256',
+    question_id: 'q256',
+    arguments_for: [
+      {
+        title: 'Resource advantage',
+        explanation: 'Incumbents dominate fundraising and media access, creating significant advantages over challengers.'
+      },
+      {
+        title: 'Name recognition',
+        explanation: 'Visibility deters serious challengers, with unknown candidates struggling to compete.'
+      },
+      {
+        title: 'Safe seats reduce responsiveness',
+        explanation: 'Safe seats reduce responsiveness to voter preferences, with little incentive to moderate.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Challengers can mobilise',
+        explanation: 'Challengers can still mobilise discontent, especially in wave elections.'
+      },
+      {
+        title: 'Failures weaken incumbents',
+        explanation: 'High-profile failures weaken incumbents and create opportunities for challengers.'
+      },
+      {
+        title: 'Elections still provide choice',
+        explanation: 'Elections still provide choice, with voters able to reject incumbents.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to democratic competition',
+      'Link to term limits debates',
+      'Relate to representation theory'
+    ],
+    examples: [
+      {
+        title: 'House incumbency rates',
+        context: 'Over 90% of House incumbents typically win re-election.'
+      },
+      {
+        title: '2010 and 2018 wave elections',
+        context: 'Anti-incumbent waves showed voters can overcome incumbency advantage.'
+      }
+    ],
+    pitfalls: [
+      'Define electoral competition',
+      'Consider different levels of office',
+      'Balance advantages and vulnerabilities'
+    ]
+  },
+  {
+    id: 'ma257',
+    question_id: 'q257',
+    arguments_for: [
+      {
+        title: 'Donor power',
+        explanation: 'Wealthy donors have disproportionate power, with large contributions buying access and influence.'
+      },
+      {
+        title: 'Dark money reduces accountability',
+        explanation: 'Dark money reduces accountability, with voters unable to identify who funds campaigns.'
+      },
+      {
+        title: 'Money deters challengers',
+        explanation: 'Campaign costs deter challengers, reducing competitive elections.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Voluntary support',
+        explanation: 'Donations reflect voluntary political support and citizen engagement.'
+      },
+      {
+        title: 'Disclosure limits abuse',
+        explanation: 'Disclosure laws limit abuse by requiring transparency about funding sources.'
+      },
+      {
+        title: 'Spending no guarantee',
+        explanation: 'High spending does not guarantee success, with well-funded candidates often losing.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to democratic equality',
+      'Link to First Amendment debates',
+      'Relate to corruption concerns'
+    ],
+    examples: [
+      {
+        title: 'Citizens United v FEC',
+        context: 'Supreme Court decision enabled unlimited independent expenditures by corporations and unions.'
+      },
+      {
+        title: '2020 Bloomberg campaign',
+        context: 'Unprecedented self-funding failed to secure Democratic nomination, showing money\'s limits.'
+      }
+    ],
+    pitfalls: [
+      'Define what undermines democracy',
+      'Consider empirical evidence on money and outcomes',
+      'Address free speech arguments'
+    ]
+  },
+  {
+    id: 'ma258',
+    question_id: 'q258',
+    arguments_for: [
+      {
+        title: 'Economic elite privilege',
+        explanation: 'Current rules privilege economic elites, with wealthy individuals and interests dominating political finance.'
+      },
+      {
+        title: 'Existing laws fail',
+        explanation: 'Existing laws fail to curb excessive spending, with loopholes and weak enforcement.'
+      },
+      {
+        title: 'Public trust damaged',
+        explanation: 'Perceived corruption undermines legitimacy, with citizens believing system serves donors not voters.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Reform risks limiting expression',
+        explanation: 'Reform risks limiting political expression, with contribution limits restricting speech.'
+      },
+      {
+        title: 'Enforcement the issue',
+        explanation: 'Enforcement is the issue, not the framework, with better implementation of existing rules needed.'
+      },
+      {
+        title: 'Voters prioritise policy',
+        explanation: 'Voters prioritise policy over funding sources when choosing candidates.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to campaign finance history',
+      'Link to reform proposals',
+      'Relate to constitutional constraints'
+    ],
+    examples: [
+      {
+        title: 'McCain-Feingold Act',
+        context: 'Major reform effort partially struck down by courts, showing difficulty of legislative reform.'
+      },
+      {
+        title: 'Public financing systems',
+        context: 'Presidential and some state public financing systems offer reform model.'
+      }
+    ],
+    pitfalls: [
+      'Consider specific reform proposals',
+      'Address constitutional constraints',
+      'Balance competing values'
+    ]
+  },
+  {
+    id: 'ma259',
+    question_id: 'q259',
+    arguments_for: [
+      {
+        title: 'Constitutional barriers',
+        explanation: 'Free speech protections restrict reform, with First Amendment limiting regulation of political spending.'
+      },
+      {
+        title: 'Beneficiaries resist',
+        explanation: 'Political beneficiaries resist reform, with incumbents advantaged by current system.'
+      },
+      {
+        title: 'Courts strike down reforms',
+        explanation: 'Courts consistently strike down reforms, as seen in Citizens United and subsequent cases.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Constitutional change possible',
+        explanation: 'Amendments and judicial reinterpretation allow change, with constitutional evolution possible.'
+      },
+      {
+        title: 'Public pressure can drive reform',
+        explanation: 'Public pressure can drive reform when issue achieves sufficient salience.'
+      },
+      {
+        title: 'Courts respond to norms',
+        explanation: 'Courts respond to shifting legal norms, with interpretations evolving over time.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to constitutional amendment process',
+      'Link to judicial interpretation',
+      'Relate to political feasibility'
+    ],
+    examples: [
+      {
+        title: 'Citizens United aftermath',
+        context: 'Calls for constitutional amendment to overturn decision have not succeeded.'
+      },
+      {
+        title: 'State-level reforms',
+        context: 'Some states have implemented public financing and disclosure reforms within constitutional limits.'
+      }
+    ],
+    pitfalls: [
+      'Define what effective reform means',
+      'Consider different types of reform',
+      'Address constitutional obstacles seriously'
+    ]
+  },
+  {
+    id: 'ma260',
+    question_id: 'q260',
+    arguments_for: [
+      {
+        title: 'Stability and clarity',
+        explanation: 'Clear choices promote governability, with two-party competition producing stable governments.'
+      },
+      {
+        title: 'Accountability assigned',
+        explanation: 'Responsibility is easily assigned, with voters knowing which party to reward or punish.'
+      },
+      {
+        title: 'Parties mobilise voters',
+        explanation: 'Strong parties mobilise voters, encouraging participation through organisation and outreach.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Limited choice',
+        explanation: 'Limited choice restricts representation, with many viewpoints excluded from major parties.'
+      },
+      {
+        title: 'Partisan loyalty weakens scrutiny',
+        explanation: 'Partisan loyalty weakens scrutiny, with party supporters excusing co-partisan misconduct.'
+      },
+      {
+        title: 'Alienation suppresses turnout',
+        explanation: 'Alienation from both parties suppresses turnout among those who feel unrepresented.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to party system theory',
+      'Link to electoral system effects',
+      'Relate to representation theory'
+    ],
+    examples: [
+      {
+        title: 'Third party failures',
+        context: 'Ross Perot and other third-party candidates demonstrate barriers to new party success.'
+      },
+      {
+        title: 'Primary elections',
+        context: 'Primaries allow some ideological diversity within two-party framework.'
+      }
+    ],
+    pitfalls: [
+      'Define democratic benefits clearly',
+      'Compare with multi-party systems',
+      'Consider structural causes of two-party system'
+    ]
+  },
+  {
+    id: 'ma261',
+    question_id: 'q261',
+    arguments_for: [
+      {
+        title: 'Candidate-centred politics',
+        explanation: 'Personal branding outweighs party identity, with candidates building individual followings.'
+      },
+      {
+        title: 'Decentralised structure',
+        explanation: 'Decentralisation weakens control, with national parties unable to discipline state and local organisations.'
+      },
+      {
+        title: 'Ideological fragmentation',
+        explanation: 'Ideological fragmentation undermines cohesion, with internal factions challenging party unity.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Parties remain central',
+        explanation: 'Parties remain central to elections and governance, with partisan affiliation still primary predictor of voting.'
+      },
+      {
+        title: 'National coordination effective',
+        explanation: 'National committees coordinate strategy effectively, with sophisticated campaign operations.'
+      },
+      {
+        title: 'Polarisation strengthens loyalty',
+        explanation: 'Polarisation strengthens party loyalty, with partisan identities intensifying.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to party decline thesis',
+      'Link to polarisation literature',
+      'Relate to candidate-centred campaigns'
+    ],
+    examples: [
+      {
+        title: 'Trump and Republican Party',
+        context: 'Trump\'s hostile takeover of GOP showed both party weakness and eventual party alignment.'
+      },
+      {
+        title: 'Straight-ticket voting increase',
+        context: 'Split-ticket voting has declined, showing party importance persists.'
+      }
+    ],
+    pitfalls: [
+      'Define party importance',
+      'Consider different functions of parties',
+      'Use specific evidence of decline or persistence'
+    ]
+  },
+  {
+    id: 'ma262',
+    question_id: 'q262',
+    arguments_for: [
+      {
+        title: 'Polarisation evidence',
+        explanation: 'Parties are increasingly polarised, with policy platforms diverging significantly.'
+      },
+      {
+        title: 'Party-line voting dominates',
+        explanation: 'Party-line voting dominates Congress, with cross-party cooperation increasingly rare.'
+      },
+      {
+        title: 'Primaries reward purity',
+        explanation: 'Primaries reward ideological purity, pushing candidates toward party extremes.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Internal factions persist',
+        explanation: 'Internal factions challenge party unity, with moderates and progressives clashing within parties.'
+      },
+      {
+        title: 'Bipartisan cooperation occurs',
+        explanation: 'Cross-party cooperation still occurs on some issues, particularly in crisis.'
+      },
+      {
+        title: 'General elections encourage moderation',
+        explanation: 'General elections encourage moderation, requiring appeals beyond base voters.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to polarisation research',
+      'Link to party unity measures',
+      'Relate to electoral incentives'
+    ],
+    examples: [
+      {
+        title: 'Democratic progressives vs moderates',
+        context: 'Sanders-Clinton and Squad vs establishment conflicts show significant intra-party division.'
+      },
+      {
+        title: 'Republican Trump divisions',
+        context: 'Never Trump Republicans and MAGA faction illustrate internal party conflict.'
+      }
+    ],
+    pitfalls: [
+      'Measure divisions systematically',
+      'Consider different types of division',
+      'Compare across different time periods'
+    ]
+  },
+  {
+    id: 'ma263',
+    question_id: 'q263',
+    arguments_for: [
+      {
+        title: 'Demographics shape voting',
+        explanation: 'Race, class and religion shape voting patterns, with clear demographic divides between parties.'
+      },
+      {
+        title: 'Party identification predicts',
+        explanation: 'Party identification strongly predicts behaviour, with most voters supporting their party.'
+      },
+      {
+        title: 'Targeted messaging reinforces',
+        explanation: 'Targeted messaging reinforces social divides, with campaigns appealing to demographic groups.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Issue voting increased',
+        explanation: 'Issue-based voting has increased, with voters responding to policy positions.'
+      },
+      {
+        title: 'Swing voters exist',
+        explanation: 'Swing voters still exist and can determine elections, particularly in competitive states.'
+      },
+      {
+        title: 'Structural factors matter more',
+        explanation: 'Structural factors like the economy outweigh campaign effects and social factors.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to voting behaviour theory',
+      'Link to demographic realignment',
+      'Relate to campaign effects research'
+    ],
+    examples: [
+      {
+        title: 'Racial voting gaps',
+        context: 'Consistent gap between white and non-white voting patterns supports social factors argument.'
+      },
+      {
+        title: 'Working-class realignment',
+        context: 'White working-class shift to Republicans shows social factors still matter.'
+      }
+    ],
+    pitfalls: [
+      'Define social factors clearly',
+      'Consider interaction between factors',
+      'Use empirical evidence'
+    ]
+  },
+  {
+    id: 'ma264',
+    question_id: 'q264',
+    arguments_for: [
+      {
+        title: 'Policy platforms diverged',
+        explanation: 'Policy platforms have diverged significantly, with parties holding incompatible positions on major issues.'
+      },
+      {
+        title: 'Partisan media reinforces',
+        explanation: 'Partisan media reinforces division, with voters consuming different information.'
+      },
+      {
+        title: 'Narrow margins',
+        explanation: 'Narrow margins reflect entrenched division, with neither party able to build lasting majority.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Voters more moderate',
+        explanation: 'Voters remain more moderate than elites, with mass opinion less polarised than party positions.'
+      },
+      {
+        title: 'Diverse information access',
+        explanation: 'Voters access diverse information sources, not only partisan media.'
+      },
+      {
+        title: 'State landslides occur',
+        explanation: 'Landslides still occur at state level, showing not all elections are closely divided.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to polarisation literature',
+      'Link to media effects research',
+      'Relate to electoral geography'
+    ],
+    examples: [
+      {
+        title: 'Red state/blue state divide',
+        context: 'Geographic polarisation has intensified, with fewer competitive states.'
+      },
+      {
+        title: 'Cable news and social media',
+        context: 'Partisan news ecosystems reinforce existing views and increase polarisation.'
+      }
+    ],
+    pitfalls: [
+      'Define polarisation clearly',
+      'Distinguish elite from mass polarisation',
+      'Consider different measures of polarisation'
+    ]
+  },
+  {
+    id: 'ma265',
+    question_id: 'q265',
+    arguments_for: [
+      {
+        title: 'Amplify citizen voices',
+        explanation: 'Groups amplify citizen voices, providing organised representation for shared interests.'
+      },
+      {
+        title: 'Represent minorities',
+        explanation: 'Groups represent minority interests, giving voice to those underrepresented in electoral politics.'
+      },
+      {
+        title: 'Expertise improves decisions',
+        explanation: 'Expertise improves decision-making, with groups providing information to legislators.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Membership skewed',
+        explanation: 'Membership skews towards the affluent, with wealthy interests better organised.'
+      },
+      {
+        title: 'Business dominates',
+        explanation: 'Business interests dominate the interest group landscape, outspending public interest groups.'
+      },
+      {
+        title: 'Influence distorts priorities',
+        explanation: 'Influence distorts policy priorities, with organised interests prevailing over diffuse public interest.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to pluralism theory',
+      'Link to lobbying regulation',
+      'Relate to democratic representation'
+    ],
+    examples: [
+      {
+        title: 'NRA influence',
+        context: 'Gun lobby demonstrates both advocacy power and questions about democratic distortion.'
+      },
+      {
+        title: 'Civil rights organisations',
+        context: 'NAACP and similar groups have advanced rights through political advocacy.'
+      }
+    ],
+    pitfalls: [
+      'Define strengthening democracy',
+      'Consider different types of groups',
+      'Balance positive and negative effects'
+    ]
+  },
+  {
+    id: 'ma266',
+    question_id: 'q266',
+    arguments_for: [
+      {
+        title: 'Lobbying skews policy',
+        explanation: 'Access to lawmakers skews policy outcomes, with lobbyists influencing legislation.'
+      },
+      {
+        title: 'Financial support buys access',
+        explanation: 'Financial support buys influence, with donors gaining access to officeholders.'
+      },
+      {
+        title: 'No electoral accountability',
+        explanation: 'Groups are not electorally accountable, operating without democratic oversight.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Information provision',
+        explanation: 'Lobbying provides information to legislators, helping them understand complex issues.'
+      },
+      {
+        title: 'Donations don\'t guarantee success',
+        explanation: 'Donations do not guarantee policy success, with money not always translating to outcomes.'
+      },
+      {
+        title: 'Public and legal scrutiny',
+        explanation: 'Groups face public and legal scrutiny, with disclosure requirements and media attention.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to corruption concerns',
+      'Link to lobbying regulation',
+      'Relate to democratic theory'
+    ],
+    examples: [
+      {
+        title: 'Pharmaceutical industry lobbying',
+        context: 'Drug pricing debates illustrate industry influence on health policy.'
+      },
+      {
+        title: 'Failed lobbying efforts',
+        context: 'Business opposition to ACA failed to prevent passage, showing lobbying has limits.'
+      }
+    ],
+    pitfalls: [
+      'Define too much influence',
+      'Consider empirical evidence on influence',
+      'Distinguish access from outcomes'
+    ]
+  },
+  {
+    id: 'ma267',
+    question_id: 'q267',
+    arguments_for: [
+      {
+        title: 'Courts bypass gridlock',
+        explanation: 'Courts bypass legislative gridlock, allowing policy change when Congress is blocked.'
+      },
+      {
+        title: 'Lasting precedent',
+        explanation: 'Court rulings create lasting change through binding precedent.'
+      },
+      {
+        title: 'Wealthy groups dominate',
+        explanation: 'Wealthy groups dominate legal action, using resources for sustained litigation.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Litigation slow and uncertain',
+        explanation: 'Litigation is slow and uncertain, with cases taking years and outcomes unpredictable.'
+      },
+      {
+        title: 'Enforcement depends on others',
+        explanation: 'Enforcement depends on other institutions, with courts unable to implement rulings alone.'
+      },
+      {
+        title: 'Public interest litigation',
+        explanation: 'Public interest litigation enables access for less wealthy groups through pro bono work.'
+      }
+    ],
+    synoptic_links: [
+      'Connect to judicial politics',
+      'Link to interest group strategies',
+      'Relate to access to justice'
+    ],
+    examples: [
+      {
+        title: 'NAACP legal strategy',
+        context: 'Civil rights movement used litigation strategy culminating in Brown v Board.'
+      },
+      {
+        title: 'Environmental litigation',
+        context: 'Environmental groups use courts to enforce regulations and challenge permits.'
+      }
+    ],
+    pitfalls: [
+      'Define effectiveness',
+      'Compare different methods systematically',
+      'Consider resources required for litigation'
+    ]
+  },
+  // Political Ideas - Conservatism Model Answers
+  {
+    id: 'ma268',
+    question_id: 'q268',
+    arguments_for: [
+      {
+        title: 'Shared pessimistic view',
+        explanation: 'Traditional Conservatives and One-Nation Conservatives share a pessimistic view of human nature, arguing that humans are imperfect, morally flawed and require authority and social discipline.'
+      },
+      {
+        title: 'Rejection of innate rationality',
+        explanation: 'Both Traditional Conservatism and the New Right reject the liberal belief in innate rationality, accepting that unchecked freedom leads to disorder and instability.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'New Right optimism about markets',
+        explanation: 'The New Right adopts a more optimistic view than Traditional Conservatism, believing individuals can act rationally in free markets when incentivised by competition.'
+      },
+      {
+        title: 'Self-reliance vs dependence',
+        explanation: 'Traditional Conservatives emphasise dependence and inherited wisdom, whereas the New Right stresses self-reliance, revealing disagreement over the extent of human imperfection.'
+      }
+    ],
+    synoptic_links: [
+      'Compare with liberal rationalism',
+      'Link to views on state intervention',
+      'Connect to debates about freedom and order'
+    ],
+    examples: [
+      {
+        title: 'Burke on human nature',
+        context: 'Burke emphasised human fallibility and the need for traditions to guide behaviour.'
+      },
+      {
+        title: 'Thatcher on self-reliance',
+        context: 'Thatcher promoted individual responsibility and rational economic actors in free markets.'
+      }
+    ],
+    pitfalls: [
+      'Use specification thinkers: Burke, Oakeshott, Thatcher',
+      'Reference all three strands systematically',
+      'Distinguish between human nature views'
+    ]
+  },
+  {
+    id: 'ma269',
+    question_id: 'q269',
+    arguments_for: [
+      {
+        title: 'Experience over theory',
+        explanation: 'Traditional Conservatives and One-Nation Conservatives both prioritise pragmatism, supporting policies based on experience rather than abstract theory.'
+      },
+      {
+        title: 'Rejection of ideological blueprints',
+        explanation: 'Both strands reject ideological blueprints, preferring gradual adaptation grounded in historical success.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'New Right ideological drive',
+        explanation: 'The New Right departs from pragmatism by pursuing ideologically driven free-market reforms inspired by neoliberal theory.'
+      },
+      {
+        title: 'Rapid vs cautious change',
+        explanation: 'Traditional Conservatism values flexibility and caution, whereas the New Right is willing to implement rapid economic change, undermining pragmatic conservatism.'
+      }
+    ],
+    synoptic_links: [
+      'Compare with socialist ideology',
+      'Link to debates about rationalism',
+      'Connect to constitutional reform debates'
+    ],
+    examples: [
+      {
+        title: 'Oakeshott on rationalism',
+        context: 'Oakeshott criticised rationalist politics and defended practical knowledge over theoretical blueprints.'
+      },
+      {
+        title: 'Thatcher reforms',
+        context: 'Thatcher\'s radical market reforms represented ideological commitment over pragmatic gradualism.'
+      }
+    ],
+    pitfalls: [
+      'Use specification thinkers',
+      'Distinguish pragmatism from lack of principles',
+      'Consider New Right as exception to conservative pragmatism'
+    ]
+  },
+  {
+    id: 'ma270',
+    question_id: 'q270',
+    arguments_for: [
+      {
+        title: 'Duty to guide the vulnerable',
+        explanation: 'Traditional Conservatives and One-Nation Conservatives support paternalism, arguing that social elites have a duty to protect and guide the vulnerable in order to preserve social order.'
+      },
+      {
+        title: 'Welfare prevents unrest',
+        explanation: 'Both strands justify limited welfare provision as a means of preventing social unrest and maintaining national cohesion.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'New Right rejects welfare dependency',
+        explanation: 'The New Right rejects paternalistic welfare on the grounds that it creates dependency, contrasting sharply with One-Nation Conservatism\'s belief in state responsibility for social stability.'
+      },
+      {
+        title: 'Moral duty vs individual autonomy',
+        explanation: 'Traditional Conservatives defend paternalism as a moral duty rooted in hierarchy and obligation, whereas the New Right prioritises individual autonomy and market discipline.'
+      }
+    ],
+    synoptic_links: [
+      'Compare with socialist welfare views',
+      'Link to debates about state intervention',
+      'Connect to noblesse oblige'
+    ],
+    examples: [
+      {
+        title: 'Disraeli\'s One Nation',
+        context: 'Disraeli advocated social reform to unite the "two nations" of rich and poor.'
+      },
+      {
+        title: 'New Right welfare cuts',
+        context: 'Thatcher reduced welfare to combat dependency culture and promote self-reliance.'
+      }
+    ],
+    pitfalls: [
+      'Use specification thinkers: Burke, Disraeli, Thatcher',
+      'Distinguish soft and hard paternalism',
+      'Address both welfare and moral paternalism'
+    ]
+  },
+  {
+    id: 'ma271',
+    question_id: 'q271',
+    arguments_for: [
+      {
+        title: 'Society evolves naturally',
+        explanation: 'Traditional Conservatives and One-Nation Conservatives view society as organic, evolving naturally over time rather than being artificially constructed.'
+      },
+      {
+        title: 'Social cohesion and institutions',
+        explanation: 'Both strands emphasise social cohesion, interdependence and the importance of institutions such as family and church.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'New Right atomistic individualism',
+        explanation: 'The New Right rejects organicism, emphasising atomistic individualism and market relationships over organic community.'
+      },
+      {
+        title: 'Social fragmentation accepted',
+        explanation: 'One-Nation Conservatism promotes social obligation and community, whereas the New Right accepts social fragmentation as a consequence of competition.'
+      }
+    ],
+    synoptic_links: [
+      'Compare with liberal individualism',
+      'Link to debates about community',
+      'Connect to socialist collectivism'
+    ],
+    examples: [
+      {
+        title: 'Burke\'s organic society',
+        context: 'Burke saw society as a partnership between generations, not a social contract.'
+      },
+      {
+        title: 'Thatcher "no such thing as society"',
+        context: 'Thatcher\'s famous statement emphasised individual and family over organic community.'
+      }
+    ],
+    pitfalls: [
+      'Use specification thinkers',
+      'Define organic society clearly',
+      'Contrast with liberal social contract theory'
+    ]
+  },
+  {
+    id: 'ma272',
+    question_id: 'q272',
+    arguments_for: [
+      {
+        title: 'Stability and continuity',
+        explanation: 'Traditional Conservatives and One-Nation Conservatives emphasise tradition as a source of stability, continuity and collective wisdom.'
+      },
+      {
+        title: 'Accumulated experience',
+        explanation: 'Both strands argue that traditions embody the accumulated experience of generations and should not be discarded lightly.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'New Right challenges tradition',
+        explanation: 'The New Right is more willing to discard traditions that hinder economic efficiency or market freedom.'
+      },
+      {
+        title: 'Preservation vs reform',
+        explanation: 'Traditional Conservatism prioritises preservation of institutions, whereas the New Right supports reform when tradition conflicts with individual liberty.'
+      }
+    ],
+    synoptic_links: [
+      'Compare with liberal progress',
+      'Link to constitutional debates',
+      'Connect to change to conserve principle'
+    ],
+    examples: [
+      {
+        title: 'Burke on tradition',
+        context: 'Burke defended inherited institutions as repositories of accumulated wisdom.'
+      },
+      {
+        title: 'New Right institutional reform',
+        context: 'Thatcher reformed traditional institutions like trade unions and local government.'
+      }
+    ],
+    pitfalls: [
+      'Use specification thinkers',
+      'Distinguish empirical from normative tradition',
+      'Consider which traditions matter'
+    ]
+  },
+  {
+    id: 'ma273',
+    question_id: 'q273',
+    arguments_for: [
+      {
+        title: 'New Right economic liberty',
+        explanation: 'The New Right combines conservatism with libertarian economics, advocating free markets and minimal state intervention in the economy.'
+      },
+      {
+        title: 'Authority with economic freedom',
+        explanation: 'Traditional Conservatism and the New Right both support authority in maintaining order, allowing libertarian economics to coexist with conservative social values.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Traditional rejection of unrestricted freedom',
+        explanation: 'Traditional Conservatism rejects libertarianism, arguing that unrestricted freedom undermines order and tradition.'
+      },
+      {
+        title: 'One-Nation sees libertarianism as divisive',
+        explanation: 'One-Nation Conservatism views libertarianism as socially divisive, preferring state intervention to preserve social cohesion.'
+      }
+    ],
+    synoptic_links: [
+      'Compare with classical liberalism',
+      'Link to debates about negative freedom',
+      'Connect to anarcho-capitalism'
+    ],
+    examples: [
+      {
+        title: 'Nozick and the New Right',
+        context: 'Nozick\'s minimal state theory influenced New Right economic thinking.'
+      },
+      {
+        title: 'Traditional conservative critique',
+        context: 'Oakeshott criticised rationalist free-market ideology as un-conservative.'
+      }
+    ],
+    pitfalls: [
+      'Define libertarianism clearly',
+      'Distinguish economic from social libertarianism',
+      'Consider New Right as fusion of conservatism and libertarianism'
+    ]
+  },
+  {
+    id: 'ma274',
+    question_id: 'q274',
+    arguments_for: [
+      {
+        title: 'Strong state for order',
+        explanation: 'Traditional Conservatives and One-Nation Conservatives support a strong state to uphold authority, law and order.'
+      },
+      {
+        title: 'Property and security protection',
+        explanation: 'All strands accept the state\'s role in protecting property and national security.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'New Right minimal economic state',
+        explanation: 'The New Right argues for a minimal state in economic and welfare terms, unlike One-Nation Conservatism\'s acceptance of intervention.'
+      },
+      {
+        title: 'Paternal authority vs liberty threat',
+        explanation: 'Traditional Conservatives emphasise paternal authority, whereas the New Right views state intervention as a threat to liberty.'
+      }
+    ],
+    synoptic_links: [
+      'Compare with liberal limited state',
+      'Link to socialist state intervention',
+      'Connect to debates about welfare'
+    ],
+    examples: [
+      {
+        title: 'Disraeli\'s social reform',
+        context: 'Disraeli supported state intervention to improve conditions for the working class.'
+      },
+      {
+        title: 'Thatcher rolling back the state',
+        context: 'Thatcher privatised industries and reduced state economic intervention.'
+      }
+    ],
+    pitfalls: [
+      'Use specification thinkers',
+      'Distinguish different state functions',
+      'Note New Right paradox: minimal economic state, strong security state'
+    ]
+  },
+  {
+    id: 'ma275',
+    question_id: 'q275',
+    arguments_for: [
+      {
+        title: 'Natural and necessary hierarchy',
+        explanation: 'Traditional Conservatives and One-Nation Conservatives view hierarchy as natural and necessary, reflecting differences in ability and responsibility.'
+      },
+      {
+        title: 'Order and stability',
+        explanation: 'Both strands argue hierarchy promotes order and stability by encouraging respect for authority.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'New Right meritocratic hierarchy',
+        explanation: 'The New Right accepts hierarchy only as a result of market competition, rejecting inherited hierarchies in favour of meritocracy.'
+      },
+      {
+        title: 'Softening vs accepting inequality',
+        explanation: 'One-Nation Conservatism seeks to soften hierarchy through social obligation, whereas the New Right accepts sharp inequality as an incentive for effort.'
+      }
+    ],
+    synoptic_links: [
+      'Compare with socialist equality',
+      'Link to liberal meritocracy',
+      'Connect to debates about social mobility'
+    ],
+    examples: [
+      {
+        title: 'Burke on natural aristocracy',
+        context: 'Burke defended rule by natural aristocracy based on virtue and wisdom.'
+      },
+      {
+        title: 'Rand on earned inequality',
+        context: 'Rand celebrated inequality resulting from individual achievement and talent.'
+      }
+    ],
+    pitfalls: [
+      'Use specification thinkers',
+      'Distinguish types of hierarchy',
+      'Consider noblesse oblige as response to hierarchy'
+    ]
+  },
+  {
+    id: 'ma276',
+    question_id: 'q276',
+    arguments_for: [
+      {
+        title: 'Essential for order',
+        explanation: 'Traditional Conservatives and the New Right emphasise authority as essential for maintaining order and preventing chaos.'
+      },
+      {
+        title: 'Strong law enforcement',
+        explanation: 'All strands support strong law enforcement and social discipline to maintain stability.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Different sources of authority',
+        explanation: 'Traditional Conservatism grounds authority in tradition and organic hierarchy, whereas the New Right justifies authority through legal and economic efficiency.'
+      },
+      {
+        title: 'Authority with responsibility',
+        explanation: 'One-Nation Conservatism balances authority with social responsibility, unlike the New Right\'s emphasis on individual accountability.'
+      }
+    ],
+    synoptic_links: [
+      'Compare with liberal constitutionalism',
+      'Link to debates about legitimacy',
+      'Connect to anarchist rejection of authority'
+    ],
+    examples: [
+      {
+        title: 'Hobbes on authority',
+        context: 'Hobbes provided philosophical foundation for strong authority to prevent disorder.'
+      },
+      {
+        title: 'Thatcher and trade union authority',
+        context: 'Thatcher used state authority to break trade union power while promoting market freedom.'
+      }
+    ],
+    pitfalls: [
+      'Use specification thinkers',
+      'Distinguish sources of authority',
+      'Consider authority-freedom tension in New Right'
+    ]
+  },
+  {
+    id: 'ma277',
+    question_id: 'q277',
+    arguments_for: [
+      {
+        title: 'Limited change to preserve',
+        explanation: 'Traditional and One-Nation Conservatives accept limited change to preserve institutions and prevent revolutionary upheaval.'
+      },
+      {
+        title: 'Rejection of radical change',
+        explanation: 'Both reject radical or revolutionary change, preferring gradual adaptation to wholesale transformation.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'New Right radical economic change',
+        explanation: 'The New Right supports rapid economic change, conflicting with conservative gradualism and representing radical departure from consensus.'
+      },
+      {
+        title: 'Continuity vs efficiency',
+        explanation: 'Traditional Conservatism values continuity over efficiency, whereas the New Right prioritises market outcomes even at cost of traditional arrangements.'
+      }
+    ],
+    synoptic_links: [
+      'Compare with revolutionary socialism',
+      'Link to debates about reform vs revolution',
+      'Connect to constitutional evolution'
+    ],
+    examples: [
+      {
+        title: 'Burke on French Revolution',
+        context: 'Burke supported gradual reform to prevent violent revolution, defending change to conserve.'
+      },
+      {
+        title: 'Thatcher\'s radical reforms',
+        context: 'Thatcher\'s rapid transformation challenged traditional conservative gradualism.'
+      }
+    ],
+    pitfalls: [
+      'Use specification thinkers',
+      'Define what counts as conservative change',
+      'Consider whether New Right was truly conservative'
+    ]
+  },
+  {
+    id: 'ma278',
+    question_id: 'q278',
+    arguments_for: [
+      {
+        title: 'New Right embraces atomism',
+        explanation: 'The New Right embraces atomism, viewing society as composed of self-reliant individuals rather than organic communities.'
+      },
+      {
+        title: 'Limited individualism tolerated',
+        explanation: 'Traditional Conservatives tolerate limited individualism within social order, accepting individual rights alongside community obligations.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Traditional rejection of atomism',
+        explanation: 'Traditional and One-Nation Conservatives reject atomism in favour of organic society, emphasising social bonds over individual isolation.'
+      },
+      {
+        title: 'Atomism undermines cohesion',
+        explanation: 'One-Nation Conservatism argues atomism undermines cohesion, whereas the New Right accepts social fragmentation as natural market outcome.'
+      }
+    ],
+    synoptic_links: [
+      'Compare with liberal individualism',
+      'Link to communitarian critique',
+      'Connect to debates about society'
+    ],
+    examples: [
+      {
+        title: 'Burke\'s little platoons',
+        context: 'Burke emphasised intermediate institutions between individual and state, rejecting atomism.'
+      },
+      {
+        title: 'Rand\'s rational individualism',
+        context: 'Rand celebrated the autonomous individual against collectivist society.'
+      }
+    ],
+    pitfalls: [
+      'Use specification thinkers',
+      'Define atomism clearly',
+      'Contrast with organic conservatism'
+    ]
+  },
+  {
+    id: 'ma279',
+    question_id: 'q279',
+    arguments_for: [
+      {
+        title: 'Elite moral duties',
+        explanation: 'Traditional and One-Nation Conservatives argue elites have moral duties to the poor, justifying paternalistic intervention.'
+      },
+      {
+        title: 'Welfare preserves hierarchy',
+        explanation: 'Both justify welfare to preserve hierarchy and order, preventing social unrest while maintaining social stratification.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'New Right rejects noblesse oblige',
+        explanation: 'The New Right rejects noblesse oblige as inefficient and counterproductive, creating dependency rather than self-reliance.'
+      },
+      {
+        title: 'State vs individual obligation',
+        explanation: 'One-Nation Conservatism institutionalises obligation through the state, unlike the New Right which relies on individual charity and market outcomes.'
+      }
+    ],
+    synoptic_links: [
+      'Compare with socialist rights-based welfare',
+      'Link to debates about charity vs rights',
+      'Connect to paternalism'
+    ],
+    examples: [
+      {
+        title: 'Disraeli\'s social reforms',
+        context: 'Disraeli implemented reforms based on elite duty to improve working-class conditions.'
+      },
+      {
+        title: 'New Right charity emphasis',
+        context: 'Thatcher emphasised private charity over state welfare as expression of obligation.'
+      }
+    ],
+    pitfalls: [
+      'Use specification thinkers',
+      'Define noblesse oblige clearly',
+      'Consider whether obligation requires state action'
+    ]
+  },
+  {
+    id: 'ma280',
+    question_id: 'q280',
+    arguments_for: [
+      {
+        title: 'Opposition to permissiveness',
+        explanation: 'Traditional Conservatives and the New Right oppose permissiveness, stressing discipline and traditional morality.'
+      },
+      {
+        title: 'Permissiveness leads to disorder',
+        explanation: 'Both argue permissiveness leads to social disorder, undermining family values and social stability.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'Different bases for morality',
+        explanation: 'Traditional Conservatism bases morality on tradition and religion, while the New Right links it to individual responsibility and market discipline.'
+      },
+      {
+        title: 'One-Nation tolerance',
+        explanation: 'One-Nation Conservatism is more tolerant of pluralism than the New Right, accepting social diversity within limits.'
+      }
+    ],
+    synoptic_links: [
+      'Compare with liberal tolerance',
+      'Link to debates about moral relativism',
+      'Connect to social conservatism'
+    ],
+    examples: [
+      {
+        title: 'Thatcher on Victorian values',
+        context: 'Thatcher promoted Victorian values of self-reliance, family and moral discipline.'
+      },
+      {
+        title: 'Traditional moral authority',
+        context: 'Burke defended established religion and traditional morality against radical change.'
+      }
+    ],
+    pitfalls: [
+      'Use specification thinkers',
+      'Define permissiveness clearly',
+      'Consider tensions within New Right on social issues'
+    ]
+  },
+  {
+    id: 'ma281',
+    question_id: 'q281',
+    arguments_for: [
+      {
+        title: 'Strong opposition to radicalism',
+        explanation: 'Traditional and One-Nation Conservatives strongly oppose radical change, preferring gradual evolution to revolutionary transformation.'
+      },
+      {
+        title: 'Gradual reform preferred',
+        explanation: 'All strands favour gradual reform over sudden upheaval, respecting inherited institutions and accumulated wisdom.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'New Right neoliberal radicalism',
+        explanation: 'The New Right\'s neoliberal reforms represent a radical break from post-war consensus politics, challenging traditional conservative caution.'
+      },
+      {
+        title: 'Accepting disruption',
+        explanation: 'Traditional Conservatism prioritises continuity, whereas the New Right accepts disruption as necessary for market efficiency.'
+      }
+    ],
+    synoptic_links: [
+      'Compare with revolutionary socialism',
+      'Link to debates about political change',
+      'Connect to change to conserve'
+    ],
+    examples: [
+      {
+        title: 'Burke against French Revolution',
+        context: 'Burke\'s Reflections criticised revolutionary radicalism as dangerous abstraction.'
+      },
+      {
+        title: 'Thatcher\'s radical transformation',
+        context: 'Thatcher\'s reforms were radical by conservative standards, breaking with post-war settlement.'
+      }
+    ],
+    pitfalls: [
+      'Use specification thinkers',
+      'Define radicalism clearly',
+      'Consider whether New Right was conservative'
+    ]
+  },
+  {
+    id: 'ma282',
+    question_id: 'q282',
+    arguments_for: [
+      {
+        title: 'Opposition to socialism',
+        explanation: 'Traditional Conservatism and the New Right both oppose socialism and support private property as natural and necessary.'
+      },
+      {
+        title: 'Acceptance of inequality',
+        explanation: 'All strands accept inequality as inevitable, rejecting egalitarian redistribution.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'New Right strong laissez-faire',
+        explanation: 'The New Right strongly supports laissez-faire, unlike One-Nation Conservatism\'s acceptance of mixed economy and state intervention.'
+      },
+      {
+        title: 'State economic role accepted',
+        explanation: 'Traditional Conservatism accepts state intervention to maintain order, conflicting with New Right minimalism in economic affairs.'
+      }
+    ],
+    synoptic_links: [
+      'Compare with socialist economics',
+      'Link to liberal free market theory',
+      'Connect to debates about capitalism'
+    ],
+    examples: [
+      {
+        title: 'Hayek and free markets',
+        context: 'Hayek\'s critique of planning influenced New Right commitment to market economics.'
+      },
+      {
+        title: 'One-Nation mixed economy',
+        context: 'Macmillan and post-war Conservatives accepted nationalised industries and welfare state.'
+      }
+    ],
+    pitfalls: [
+      'Use specification thinkers',
+      'Distinguish economic strands clearly',
+      'Consider One-Nation as middle position'
+    ]
+  },
+  {
+    id: 'ma283',
+    question_id: 'q283',
+    arguments_for: [
+      {
+        title: 'Experience over abstraction',
+        explanation: 'Traditional and One-Nation Conservatives favour experience over abstract theory, valuing practical wisdom accumulated through history.'
+      },
+      {
+        title: 'Rejection of rationalist blueprints',
+        explanation: 'Both reject rationalist blueprints, distrusting systematic ideologies that ignore complexity and human fallibility.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'New Right theoretical influence',
+        explanation: 'The New Right is influenced by neoliberal theory rather than empirical caution, applying abstract economic models to policy.'
+      },
+      {
+        title: 'Historical continuity vs theoretical efficiency',
+        explanation: 'Traditional Conservatism values historical continuity, whereas the New Right prioritises theoretical efficiency even at cost of tradition.'
+      }
+    ],
+    synoptic_links: [
+      'Compare with liberal rationalism',
+      'Link to Oakeshott on rationalism',
+      'Connect to pragmatism'
+    ],
+    examples: [
+      {
+        title: 'Oakeshott on rationalism in politics',
+        context: 'Oakeshott criticised rationalist approach to politics, defending practical knowledge.'
+      },
+      {
+        title: 'Friedman\'s monetarism',
+        context: 'New Right adopted theoretical economic models like monetarism as policy guides.'
+      }
+    ],
+    pitfalls: [
+      'Use specification thinkers',
+      'Define empiricism clearly',
+      'Contrast with rationalist ideologies'
+    ]
+  },
+  {
+    id: 'ma284',
+    question_id: 'q284',
+    arguments_for: [
+      {
+        title: 'Shared pessimism',
+        explanation: 'Traditional conservatives and New Right conservatives share a pessimistic view of human nature, seeing individuals as flawed, selfish and driven by self-interest.'
+      },
+      {
+        title: 'Need for structure',
+        explanation: 'Both Traditional Conservatism and One-Nation Conservatism believe humans require structure and guidance, rejecting the liberal idea of rational autonomy.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'One-Nation compassionate view',
+        explanation: 'One-Nation conservatives adopt a more compassionate view of human nature than the New Right, arguing that individuals are capable of loyalty and social responsibility if supported.'
+      },
+      {
+        title: 'New Right rational self-reliance',
+        explanation: 'The New Right\'s belief in rational, self-reliant individuals contrasts with Traditional Conservatism\'s emphasis on inherited wisdom and human dependence.'
+      }
+    ],
+    synoptic_links: [
+      'Compare with liberal optimism',
+      'Link to socialist cooperative view',
+      'Connect to debates about freedom'
+    ],
+    examples: [
+      {
+        title: 'Hobbes on human nature',
+        context: 'Hobbes saw humans as naturally competitive and requiring strong authority.'
+      },
+      {
+        title: 'Rand on rational self-interest',
+        context: 'Rand celebrated rational self-interest as virtue, not human limitation.'
+      }
+    ],
+    pitfalls: [
+      'Use specification thinkers',
+      'Distinguish different aspects of human nature',
+      'Consider implications for policy'
+    ]
+  },
+  {
+    id: 'ma285',
+    question_id: 'q285',
+    arguments_for: [
+      {
+        title: 'Organic society view',
+        explanation: 'Traditional conservatives and One-Nation conservatives both support the concept of organic society, viewing society as a living whole that evolves naturally over time.'
+      },
+      {
+        title: 'Continuity and cohesion',
+        explanation: 'Both strands emphasise continuity, tradition and social cohesion, rejecting radical change in favour of gradual evolution.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'New Right individualism',
+        explanation: 'The New Right rejects organicism in favour of individualism, prioritising free markets and personal responsibility over social bonds.'
+      },
+      {
+        title: 'Social inequality acceptance',
+        explanation: 'One-Nation conservatism supports social obligation and community, whereas New Right conservatism accepts social inequality as a natural outcome of competition.'
+      }
+    ],
+    synoptic_links: [
+      'Compare with liberal social contract',
+      'Link to socialist class analysis',
+      'Connect to communitarian theory'
+    ],
+    examples: [
+      {
+        title: 'Burke\'s partnership of generations',
+        context: 'Burke saw society as contract between past, present and future generations.'
+      },
+      {
+        title: 'Thatcher\'s individualism',
+        context: 'Thatcher rejected organic society in favour of individuals and families.'
+      }
+    ],
+    pitfalls: [
+      'Use specification thinkers',
+      'Define society clearly',
+      'Contrast organic and atomistic views'
+    ]
+  },
+  {
+    id: 'ma286',
+    question_id: 'q286',
+    arguments_for: [
+      {
+        title: 'Support for capitalism',
+        explanation: 'Traditional Conservatism and the New Right both support private property and oppose socialism, seeing capitalism as the most natural economic system.'
+      },
+      {
+        title: 'Acceptance of inequality',
+        explanation: 'All strands of conservatism accept inequality as inevitable, rejecting the pursuit of equality of outcome.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'One-Nation welfare acceptance',
+        explanation: 'One-Nation conservatives support limited welfare and economic intervention to reduce poverty, while the New Right advocates free markets and minimal regulation.'
+      },
+      {
+        title: 'Dependency vs paternalism',
+        explanation: 'The New Right views welfare as fostering dependency, whereas Traditional Conservatism accepts paternalistic support for the vulnerable.'
+      }
+    ],
+    synoptic_links: [
+      'Compare with socialist economics',
+      'Link to liberal market views',
+      'Connect to welfare debates'
+    ],
+    examples: [
+      {
+        title: 'Disraeli\'s social reform',
+        context: 'Disraeli supported economic intervention to improve working-class conditions.'
+      },
+      {
+        title: 'Thatcher\'s privatisation',
+        context: 'Thatcher privatised nationalised industries and deregulated markets.'
+      }
+    ],
+    pitfalls: [
+      'Use specification thinkers',
+      'Distinguish economic positions clearly',
+      'Consider One-Nation as middle ground'
+    ]
+  },
+  {
+    id: 'ma287',
+    question_id: 'q287',
+    arguments_for: [
+      {
+        title: 'Strong state for order',
+        explanation: 'Traditional Conservatives and One-Nation Conservatives both support a strong state to maintain order, authority and social stability.'
+      },
+      {
+        title: 'Law and national defence',
+        explanation: 'All strands of conservatism accept that the state should uphold law, protect property and defend the nation.'
+      }
+    ],
+    arguments_against: [
+      {
+        title: 'New Right minimal economic state',
+        explanation: 'The New Right argues for a minimal state in economic and welfare terms, in contrast to One-Nation conservatives who support state intervention to maintain social harmony.'
+      },
+      {
+        title: 'Paternalism vs individual freedom',
+        explanation: 'Traditional conservatives emphasise authority and paternalism, whereas the New Right views state power as a threat to individual freedom and market efficiency.'
+      }
+    ],
+    synoptic_links: [
+      'Compare with liberal limited state',
+      'Link to socialist state intervention',
+      'Connect to anarchist statelessness'
+    ],
+    examples: [
+      {
+        title: 'Burke on state and society',
+        context: 'Burke saw the state as necessary to maintain order but subordinate to society.'
+      },
+      {
+        title: 'Nozick\'s minimal state',
+        context: 'Nozick influenced New Right thinking about limiting state to protection functions.'
+      }
+    ],
+    pitfalls: [
+      'Use specification thinkers: Burke, Disraeli, Oakeshott, Rand, Nozick',
+      'Distinguish state functions carefully',
+      'Note New Right paradox on state'
     ]
   }
 ];
